@@ -14,127 +14,127 @@ WPW3=1047
 WPS3=0
 WFL3=0
 WUC3=0
-W4=BUENAVISTA
+W4=CALLE 79
 WPW4=1047
 WPS4=0
 WFL4=0
 WUC4=0
-W5=CALLE 79
+W5=CALLE 82
 WPW5=1047
 WPS5=0
 WFL5=0
 WUC5=0
-W6=CALLE 82
+W6=CARIBE PLAZA
 WPW6=1047
 WPS6=0
 WFL6=0
 WUC6=0
-W7=CARIBE PLAZA
+W7=CASTELLANA
 WPW7=1047
 WPS7=0
 WFL7=0
 WUC7=0
-W8=CASTELLANA
+W8=CIENAGA
 WPW8=1047
 WPS8=0
 WFL8=0
 WUC8=0
-W9=CIENAGA
+W9=CORPORATIVO BARRANQUILLA
 WPW9=1047
 WPS9=0
 WFL9=0
 WUC9=0
-W10=CORPORATIVO BARRANQUILLA
+W10=CRA 54
 WPW10=1047
 WPS10=0
 WFL10=0
 WUC10=0
-W11=CRA 54
+W11=FORD
 WPW11=1047
 WPS11=0
 WFL11=0
 WUC11=0
-W12=FORD
+W12=MAGANGUE
 WPW12=1047
 WPS12=0
 WFL12=0
 WUC12=0
-W13=MAGANGUE
+W13=MONTERIA
 WPW13=1047
 WPS13=0
 WFL13=0
 WUC13=0
-W14=MONTERIA
+W14=MONTERIA NORTE
 WPW14=1047
 WPS14=0
 WFL14=0
 WUC14=0
-W15=MONTERIA NORTE
+W15=MURILLO
 WPW15=1047
 WPS15=0
 WFL15=0
 WUC15=0
-W16=MURILLO
+W16=PORTAL DEL PRADO
 WPW16=1047
 WPS16=0
 WFL16=0
 WUC16=0
-W17=PORTAL DEL PRADO
+W17=RIOHACHA
 WPW17=1047
 WPS17=0
 WFL17=0
 WUC17=0
-W18=RIOHACHA
+W18=SANTA MARTA
 WPW18=1047
 WPS18=0
 WFL18=0
 WUC18=0
-W19=SANTA MARTA
+W19=SOLEDAD
 WPW19=1047
 WPS19=0
 WFL19=0
 WUC19=0
-W20=SOLEDAD
+W20=UNICO BAQ
 WPW20=1047
 WPS20=0
 WFL20=0
 WUC20=0
-W21=UNICO BAQ
+W21=VALLEDUPAR
 WPW21=1047
 WPS21=0
 WFL21=0
 WUC21=0
-W22=VALLEDUPAR
+W22=CORDIALIDAD
 WPW22=1047
 WPS22=0
 WFL22=0
 WUC22=0
-W23=CORDIALIDAD
+W23=SAN FERNANDO
 WPW23=1047
 WPS23=0
 WFL23=0
 WUC23=0
-W24=SAN FERNANDO
+W24=MAYALES
 WPW24=1047
 WPS24=0
 WFL24=0
 WUC24=0
-W25=MAYALES
+W25=OCEAN MALL 2
 WPW25=1047
 WPS25=0
 WFL25=0
 WUC25=0
-W26=OCEAN MALL 2
+W26=BUENAVISTA STM
 WPW26=1047
 WPS26=0
 WFL26=0
 WUC26=0
-W27=BUENAVISTA STM
+W27=BUENAVISTA
 WPW27=1047
 WPS27=0
 WFL27=0
 WUC27=0
-ActiveName=UNICO BAQ
+ActiveName=BUENAVISTA
 DefaultWGID=0
 DefaultWUC=0
 [1]
@@ -408,126 +408,6 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000037AS07
 [19]
-Name=BUENAVI-01
-Description=
-Workgroup=BUENAVISTA
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=A41F72785638|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=BQAD5000517AS11
-[20]
-Name=BUENAVI-02
-Description=
-Workgroup=BUENAVISTA
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=A41F7278537E|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=BQAD5000517AS2
-[21]
-Name=BUENAVI-03
-Description=
-Workgroup=BUENAVISTA
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=4061868B61F4|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=BQAD5000517AS3
-[22]
-Name=BUENAVI-04
-Description=
-Workgroup=BUENAVISTA
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=7845C409FBD6|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=BQAD5000517AS4
-[23]
-Name=BUENAVI-05
-Description=
-Workgroup=BUENAVISTA
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=4061868B61C3|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=BQAD5000517AS5
-[24]
-Name=BUENAVI-09
-Description=
-Workgroup=BUENAVISTA
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=A41F72778814|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=BQAD5000517AS09
-[25]
-Name=BUENAVI-10
-Description=
-Workgroup=BUENAVISTA
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=6C626D9EF9BC|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=BQAD5000517A010
-[26]
-Name=BUENAVI-08
-Description=
-Workgroup=BUENAVISTA
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=7845C42719D6|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=BQAD5000517AS8
-[27]
 Name=CALLE 7-01
 Description=
 Workgroup=CALLE 79
@@ -542,7 +422,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS01
-[28]
+[20]
 Name=CALLE 7-02
 Description=
 Workgroup=CALLE 79
@@ -557,7 +437,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS02
-[29]
+[21]
 Name=CALLE 7-03
 Description=
 Workgroup=CALLE 79
@@ -572,7 +452,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS03
-[30]
+[22]
 Name=CALLE 7-04
 Description=
 Workgroup=CALLE 79
@@ -587,7 +467,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS04
-[31]
+[23]
 Name=CALLE 7-05
 Description=
 Workgroup=CALLE 79
@@ -602,7 +482,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS05
-[32]
+[24]
 Name=CALLE 7-06
 Description=
 Workgroup=CALLE 79
@@ -617,7 +497,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS06
-[33]
+[25]
 Name=CALLE 7-07
 Description=BQAD5000521AS07
 Workgroup=CALLE 79
@@ -632,7 +512,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.54.34
-[34]
+[26]
 Name=CALLE 7-08
 Description=
 Workgroup=CALLE 79
@@ -647,7 +527,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS08
-[35]
+[27]
 Name=CALLE 7-09
 Description=
 Workgroup=CALLE 79
@@ -662,7 +542,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS09
-[36]
+[28]
 Name=CALLE 7-10
 Description=
 Workgroup=CALLE 79
@@ -677,7 +557,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS10
-[37]
+[29]
 Name=CALLE 7-11
 Description=BQAD5000521AS11
 Workgroup=CALLE 79
@@ -692,7 +572,7 @@ MACDateStamp=41857
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.54.31
-[38]
+[30]
 Name=Modulo 15
 Description=
 Workgroup=CALLE 82
@@ -707,7 +587,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAL5000540AS08
-[39]
+[31]
 Name=Modulo 02
 Description=
 Workgroup=CALLE 82
@@ -722,7 +602,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAL5000540AS07
-[40]
+[32]
 Name=Modulo 13
 Description=
 Workgroup=CALLE 82
@@ -737,7 +617,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAL5000540AS11
-[41]
+[33]
 Name=Modulo 06
 Description=
 Workgroup=CALLE 82
@@ -752,7 +632,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000540AS21
-[42]
+[34]
 Name=Modulo 09
 Description=
 Workgroup=CALLE 82
@@ -767,7 +647,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARD5000503AS15
-[43]
+[35]
 Name=Modulo 10
 Description=
 Workgroup=CALLE 82
@@ -782,7 +662,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000540AS20
-[44]
+[36]
 Name=Modulo 11
 Description=
 Workgroup=CALLE 82
@@ -797,7 +677,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000540AS17
-[45]
+[37]
 Name=CARIBE -01
 Description=10.75.44.25
 Workgroup=CARIBE PLAZA
@@ -812,7 +692,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS01
-[46]
+[38]
 Name=CARIBE -02
 Description=10.75.44.22
 Workgroup=CARIBE PLAZA
@@ -827,7 +707,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS02
-[47]
+[39]
 Name=CARIBE -03
 Description=
 Workgroup=CARIBE PLAZA
@@ -842,7 +722,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS03
-[48]
+[40]
 Name=CARIBE -04
 Description=10.75.44.38
 Workgroup=CARIBE PLAZA
@@ -857,7 +737,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS04
-[49]
+[41]
 Name=CARIBE -05
 Description=10.75.44.34
 Workgroup=CARIBE PLAZA
@@ -872,7 +752,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS05
-[50]
+[42]
 Name=CARIBE -06
 Description=10.75.44.30
 Workgroup=CARIBE PLAZA
@@ -887,7 +767,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500504AS06P
-[51]
+[43]
 Name=CARIBE -07 Coord
 Description=COORDDINADOR
 Workgroup=CARIBE PLAZA
@@ -902,7 +782,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504CO01
-[52]
+[44]
 Name=CARIBE -08
 Description=10.75.44.41
 Workgroup=CARIBE PLAZA
@@ -917,7 +797,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCTGD500504AS08
-[53]
+[45]
 Name=CARIBE -09
 Description=10.75.44.37
 Workgroup=CARIBE PLAZA
@@ -932,7 +812,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS07
-[54]
+[46]
 Name=CASTELL-01
 Description=10.75.22.50
 Workgroup=CASTELLANA
@@ -947,7 +827,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS11
-[55]
+[47]
 Name=CASTELL-02
 Description=10.75.22.63
 Workgroup=CASTELLANA
@@ -962,7 +842,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS02
-[56]
+[48]
 Name=CASTELL-03
 Description=10.75.22.35
 Workgroup=CASTELLANA
@@ -977,7 +857,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS03
-[57]
+[49]
 Name=CASTELL-04
 Description=10.75.22.30
 Workgroup=CASTELLANA
@@ -992,7 +872,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS04
-[58]
+[50]
 Name=CASTELL-05
 Description=10.75.22.29
 Workgroup=CASTELLANA
@@ -1007,7 +887,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS05
-[59]
+[51]
 Name=CASTELL-06
 Description=10.75.22.32
 Workgroup=CASTELLANA
@@ -1022,7 +902,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS06
-[60]
+[52]
 Name=CASTELL-07
 Description=10.75.22.58
 Workgroup=CASTELLANA
@@ -1037,7 +917,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS07
-[61]
+[53]
 Name=CASTELL-08
 Description=10.75.22.60
 Workgroup=CASTELLANA
@@ -1052,7 +932,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS20
-[62]
+[54]
 Name=CASTELL-09
 Description=10.75.22.42
 Workgroup=CASTELLANA
@@ -1067,7 +947,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS08
-[63]
+[55]
 Name=CASTELL-10
 Description=
 Workgroup=CASTELLANA
@@ -1082,7 +962,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS10
-[64]
+[56]
 Name=CASTELL-11
 Description=10.75.22.65
 Workgroup=CASTELLANA
@@ -1097,7 +977,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS10
-[65]
+[57]
 Name=CASTELL-12
 Description=10.75.22.56
 Workgroup=CASTELLANA
@@ -1112,7 +992,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS12
-[66]
+[58]
 Name=CASTELL-13
 Description=CTGD500435AS12
 Workgroup=CASTELLANA
@@ -1127,7 +1007,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.22.28
-[67]
+[59]
 Name=CASTELL-14
 Description=
 Workgroup=CASTELLANA
@@ -1142,7 +1022,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=
-[68]
+[60]
 Name=CASTELL-15
 Description=CTGD5435AS11
 Workgroup=CASTELLANA
@@ -1157,7 +1037,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.22.23
-[69]
+[61]
 Name=CASTELL-16
 Description=10.75.22.40
 Workgroup=CASTELLANA
@@ -1172,7 +1052,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS15
-[70]
+[62]
 Name=CASTELL-17
 Description=10.75.22.149
 Workgroup=CASTELLANA
@@ -1187,7 +1067,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS16
-[71]
+[63]
 Name=CASTELL-18
 Description=10.75.22.26
 Workgroup=CASTELLANA
@@ -1202,7 +1082,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTG5000435AS09
-[72]
+[64]
 Name=CASTELL-19
 Description=CTGD500435AS12
 Workgroup=CASTELLANA
@@ -1217,7 +1097,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.22.34
-[73]
+[65]
 Name=CASTELL-22-VENTAS
 Description=ADMINCMOVIL-PC
 Workgroup=CASTELLANA
@@ -1232,7 +1112,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.22.45
-[74]
+[66]
 Name=CASTELL-COORDINADOR
 Description=10.75.22.37
 Workgroup=CASTELLANA
@@ -1247,7 +1127,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435CO01
-[75]
+[67]
 Name=CIENAGA-01
 Description=10.75.8.23
 Workgroup=CIENAGA
@@ -1262,7 +1142,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCIED500449AS01
-[76]
+[68]
 Name=CIENAGA-02
 Description=DaÃ±ado
 Workgroup=CIENAGA
@@ -1277,7 +1157,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=CIED5000449AS05
-[77]
+[69]
 Name=CIENAGA-03
 Description=10.75.8.26CIED5000449AS03
 Workgroup=CIENAGA
@@ -1292,7 +1172,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=CIED5000449AS03
-[78]
+[70]
 Name=CIENAGA-04
 Description=
 Workgroup=CIENAGA
@@ -1307,7 +1187,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=CIED5000449AS04
-[79]
+[71]
 Name=CIENAGA-ADMINISTRADOR
 Description=10.75.8.18
 Workgroup=CIENAGA
@@ -1322,7 +1202,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=CIED5000449AD01
-[80]
+[72]
 Name=CIENAGA-CAJA
 Description=10.75.8.24
 Workgroup=CIENAGA
@@ -1337,7 +1217,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=CIED5000449CJ01
-[81]
+[73]
 Name=CIENAGA-COORDINADOR
 Description=10.75.8.27
 Workgroup=CIENAGA
@@ -1352,7 +1232,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=CIED5000449CO01
-[82]
+[74]
 Name=MOD01-CORPORATIVO
 Description=BARDPUME04
 Workgroup=CORPORATIVO BARRANQUILLA
@@ -1367,7 +1247,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARDPUME04
-[83]
+[75]
 Name=MOD02-CORPORATIVO
 Description=BARDPYME10
 Workgroup=CORPORATIVO BARRANQUILLA
@@ -1382,7 +1262,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARDPYME10
-[84]
+[76]
 Name=MODULO 01
 Description=NOmbre de red  Duplicado  BQAD500525AS17 10.75.58.40
 Workgroup=CORDIALIDAD
@@ -1397,7 +1277,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS17
-[85]
+[77]
 Name=MODULO 12
 Description=
 Workgroup=CORDIALIDAD
@@ -1412,7 +1292,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS07
-[86]
+[78]
 Name=CRA 54-01
 Description=10.75.16.40
 Workgroup=CRA 54
@@ -1427,7 +1307,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS01
-[87]
+[79]
 Name=CRA 54-02
 Description=10.75.16.32
 Workgroup=CRA 54
@@ -1442,7 +1322,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS02
-[88]
+[80]
 Name=CRA 54-03
 Description=10.75.16.37
 Workgroup=CRA 54
@@ -1457,7 +1337,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS03
-[89]
+[81]
 Name=CRA 54-04
 Description=10.75.16.41
 Workgroup=CRA 54
@@ -1472,7 +1352,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS04
-[90]
+[82]
 Name=CRA 54-05
 Description=10.75.16.165
 Workgroup=CRA 54
@@ -1487,7 +1367,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS05
-[91]
+[83]
 Name=CRA 54-06
 Description=10.75.16.31
 Workgroup=CRA 54
@@ -1502,7 +1382,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS06
-[92]
+[84]
 Name=CRA 54-07
 Description=10.75.16.27
 Workgroup=CRA 54
@@ -1517,7 +1397,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS07
-[93]
+[85]
 Name=CRA 54-08
 Description=10.75.16.17
 Workgroup=CRA 54
@@ -1532,7 +1412,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS08
-[94]
+[86]
 Name=CRA 54-09
 Description=10.75.16.79
 Workgroup=CRA 54
@@ -1547,7 +1427,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS09
-[95]
+[87]
 Name=CRA 54-10
 Description=
 Workgroup=CRA 54
@@ -1562,7 +1442,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS10
-[96]
+[88]
 Name=CRA 54-11
 Description=10.75.16.50
 Workgroup=CRA 54
@@ -1577,7 +1457,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS11
-[97]
+[89]
 Name=CRA 54-12
 Description=10.75.16.46
 Workgroup=CRA 54
@@ -1592,7 +1472,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS12
-[98]
+[90]
 Name=CRA 54-13
 Description=10.75.16.35
 Workgroup=CRA 54
@@ -1607,7 +1487,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS13
-[99]
+[91]
 Name=CRA 54-14
 Description=
 Workgroup=CRA 54
@@ -1622,7 +1502,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS14
-[100]
+[92]
 Name=CRA 54-15
 Description=10.75.16.29
 Workgroup=CRA 54
@@ -1637,7 +1517,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS15
-[101]
+[93]
 Name=CRA 54-16
 Description=10.75.16.11
 Workgroup=CRA 54
@@ -1652,7 +1532,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS16
-[102]
+[94]
 Name=CRA 54-17
 Description=10.75.16.91
 Workgroup=CRA 54
@@ -1667,7 +1547,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS17
-[103]
+[95]
 Name=CRA 54-18
 Description=10.75.16.25
 Workgroup=CRA 54
@@ -1682,7 +1562,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS18
-[104]
+[96]
 Name=CRA 54-19
 Description=10.75.16.30
 Workgroup=CRA 54
@@ -1697,7 +1577,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS19
-[105]
+[97]
 Name=CRA 54-20
 Description=10.75.16.18
 Workgroup=CRA 54
@@ -1712,7 +1592,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS20
-[106]
+[98]
 Name=CRA 54-21
 Description=10.75.16.16
 Workgroup=CRA 54
@@ -1727,7 +1607,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS21
-[107]
+[99]
 Name=CRA 54-22
 Description=
 Workgroup=CRA 54
@@ -1742,7 +1622,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS22
-[108]
+[100]
 Name=CRA 54-23
 Description=10.75.16.24
 Workgroup=CRA 54
@@ -1757,7 +1637,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS23
-[109]
+[101]
 Name=CRA 54-24
 Description=10.75.16.36
 Workgroup=CRA 54
@@ -1772,7 +1652,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS24
-[110]
+[102]
 Name=CRA 54-25
 Description=10.75.16.38
 Workgroup=CRA 54
@@ -1787,7 +1667,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS25
-[111]
+[103]
 Name=CRA 54-26
 Description=10.75.16.167
 Workgroup=CRA 54
@@ -1802,7 +1682,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS26
-[112]
+[104]
 Name=CRA 54-27
 Description=10.75.16.26
 Workgroup=CRA 54
@@ -1817,7 +1697,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS27
-[113]
+[105]
 Name=CRA 54-28
 Description=10.75.16.21
 Workgroup=CRA 54
@@ -1832,7 +1712,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS28
-[114]
+[106]
 Name=CRA 54-29
 Description=10.75.16.23
 Workgroup=CRA 54
@@ -1847,7 +1727,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS29
-[115]
+[107]
 Name=CRA 54-30
 Description=10.75.16.34
 Workgroup=CRA 54
@@ -1862,7 +1742,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS30
-[116]
+[108]
 Name=CRA 54-31
 Description=
 Workgroup=CRA 54
@@ -1877,7 +1757,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000035AS31
-[117]
+[109]
 Name=FORD-01
 Description=
 Workgroup=FORD
@@ -1892,7 +1772,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS01
-[118]
+[110]
 Name=FORD-02
 Description=
 Workgroup=FORD
@@ -1907,7 +1787,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS02
-[119]
+[111]
 Name=FORD-03
 Description=
 Workgroup=FORD
@@ -1922,7 +1802,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS03
-[120]
+[112]
 Name=FORD-04
 Description=
 Workgroup=FORD
@@ -1937,7 +1817,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS04
-[121]
+[113]
 Name=FORD-05
 Description=
 Workgroup=FORD
@@ -1952,7 +1832,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS05
-[122]
+[114]
 Name=FORD-06
 Description=
 Workgroup=FORD
@@ -1967,7 +1847,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS06
-[123]
+[115]
 Name=FORD-07
 Description=
 Workgroup=FORD
@@ -1982,7 +1862,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS07
-[124]
+[116]
 Name=FORD-08
 Description=
 Workgroup=FORD
@@ -1997,7 +1877,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS08
-[125]
+[117]
 Name=FORD-09
 Description=
 Workgroup=FORD
@@ -2012,7 +1892,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS09
-[126]
+[118]
 Name=FORD-10
 Description=
 Workgroup=FORD
@@ -2027,7 +1907,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS10
-[127]
+[119]
 Name=FORD-11
 Description=
 Workgroup=FORD
@@ -2042,7 +1922,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS15
-[128]
+[120]
 Name=FORD-12
 Description=
 Workgroup=FORD
@@ -2057,7 +1937,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS11
-[129]
+[121]
 Name=FORD-13
 Description=
 Workgroup=FORD
@@ -2072,7 +1952,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS12
-[130]
+[122]
 Name=MAGANGU-01
 Description=
 Workgroup=MAGANGUE
@@ -2087,7 +1967,7 @@ MACDateStamp=41828
 FirstConnectionCommand=
 ColGroup=0
 Address1=MAGD5000448AS02
-[131]
+[123]
 Name=MAGANGU-006
 Description=
 Workgroup=MAGANGUE
@@ -2102,7 +1982,7 @@ MACDateStamp=41828
 FirstConnectionCommand=
 ColGroup=0
 Address1=MAGD5000448AS07
-[132]
+[124]
 Name=MAGANGU-03
 Description=
 Workgroup=MAGANGUE
@@ -2117,7 +1997,7 @@ MACDateStamp=41828
 FirstConnectionCommand=
 ColGroup=0
 Address1=MAGD5000448AS03
-[133]
+[125]
 Name=MAGANGU-04
 Description=
 Workgroup=MAGANGUE
@@ -2132,7 +2012,7 @@ MACDateStamp=41828
 FirstConnectionCommand=
 ColGroup=0
 Address1=MAGD5000448AS04
-[134]
+[126]
 Name=MAGANGU-05
 Description=
 Workgroup=MAGANGUE
@@ -2147,7 +2027,7 @@ MACDateStamp=41828
 FirstConnectionCommand=
 ColGroup=0
 Address1=MAGD5000448AS01
-[135]
+[127]
 Name=MAGANGU-06
 Description=
 Workgroup=MAGANGUE
@@ -2162,7 +2042,7 @@ MACDateStamp=41828
 FirstConnectionCommand=
 ColGroup=0
 Address1=MAGD5000448AS05
-[136]
+[128]
 Name=MONTERI-01
 Description=Desconectado
 Workgroup=MONTERIA
@@ -2177,7 +2057,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS001
-[137]
+[129]
 Name=MONTERI-02
 Description=
 Workgroup=MONTERIA
@@ -2192,7 +2072,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND500039AS12
-[138]
+[130]
 Name=MONTERI-03
 Description=10.75.4.74
 Workgroup=MONTERIA
@@ -2207,7 +2087,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS03
-[139]
+[131]
 Name=MONTERI-04
 Description=10.75.4.59
 Workgroup=MONTERIA
@@ -2222,7 +2102,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS06
-[140]
+[132]
 Name=MONTERI-05
 Description=10.75.4.22
 Workgroup=MONTERIA
@@ -2237,7 +2117,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS05
-[141]
+[133]
 Name=MONTERI-06
 Description=10.75.4.35
 Workgroup=MONTERIA
@@ -2252,7 +2132,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS15
-[142]
+[134]
 Name=MONTERI-07
 Description=
 Workgroup=MONTERIA
@@ -2267,7 +2147,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND500039AS07
-[143]
+[135]
 Name=MONTERI-08
 Description=10.75.4.76
 Workgroup=MONTERIA
@@ -2282,7 +2162,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS09
-[144]
+[136]
 Name=MONTERI-09
 Description=10.75.4.33
 Workgroup=MONTERIA
@@ -2297,7 +2177,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS16
-[145]
+[137]
 Name=MONTERI-10
 Description=10.75.4.28
 Workgroup=MONTERIA
@@ -2312,7 +2192,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND50039AS02
-[146]
+[138]
 Name=MONTERI-11
 Description=10.75.4.31
 Workgroup=MONTERIA
@@ -2327,7 +2207,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS01
-[147]
+[139]
 Name=MONTERI-12
 Description=Desconectado
 Workgroup=MONTERIA
@@ -2342,7 +2222,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND500039AS14
-[148]
+[140]
 Name=MONTERI-13
 Description=10.75.4.50
 Workgroup=MONTERIA
@@ -2357,7 +2237,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND50039AS10
-[149]
+[141]
 Name=MONTERI-14
 Description=10.75.4.44
 Workgroup=MONTERIA
@@ -2372,7 +2252,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND50039AS11
-[150]
+[142]
 Name=MONTERI-15
 Description=
 Workgroup=MONTERIA
@@ -2387,7 +2267,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS04
-[151]
+[143]
 Name=MONTERI-01_
 Description=10.75.46.27
 Workgroup=MONTERIA NORTE
@@ -2402,7 +2282,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000518AS01
-[152]
+[144]
 Name=MONTERI-02_
 Description=10.75.46.21
 Workgroup=MONTERIA NORTE
@@ -2417,7 +2297,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000518AS02
-[153]
+[145]
 Name=MONTERI-03
 Description=10.75.46.28
 Workgroup=MONTERIA NORTE
@@ -2432,7 +2312,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND500518AS05
-[154]
+[146]
 Name=MONTERI-04_
 Description=10.75.46.22
 Workgroup=MONTERIA NORTE
@@ -2447,7 +2327,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000518AS08
-[155]
+[147]
 Name=MONTERI-05_
 Description=MOND5000518DT
 Workgroup=MONTERIA NORTE
@@ -2462,7 +2342,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND500518AS04
-[156]
+[148]
 Name=MONTERI-06_
 Description=
 Workgroup=MONTERIA NORTE
@@ -2477,7 +2357,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND500518AS03
-[157]
+[149]
 Name=MONTERI-07_
 Description=
 Workgroup=MONTERIA NORTE
@@ -2492,7 +2372,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000518AS07
-[158]
+[150]
 Name=MURILLO-01
 Description=
 Workgroup=MURILLO
@@ -2503,11 +2383,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=00016C979138|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARD5000036AS01
-[159]
+[151]
 Name=MURILLO-02
 Description=10.75.24.47
 Workgroup=MURILLO
@@ -2518,11 +2398,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4270BED|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000036AS2
-[160]
+[152]
 Name=MURILLO-03
 Description=
 Workgroup=MURILLO
@@ -2533,11 +2413,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C425D483|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARD5000036AS03
-[161]
+[153]
 Name=MURILLO-04
 Description=
 Workgroup=MURILLO
@@ -2548,11 +2428,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=78E3B5C35DE6|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBQAD500036AS03
-[162]
+[154]
 Name=MURILLO-05
 Description=
 Workgroup=MURILLO
@@ -2563,11 +2443,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=78E3B5BF76EF|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBQAD500036AS02
-[163]
+[155]
 Name=MURILLO-06
 Description=
 Workgroup=MURILLO
@@ -2578,11 +2458,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9EF683|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000036AS06
-[164]
+[156]
 Name=MURILLO-07
 Description=
 Workgroup=MURILLO
@@ -2593,11 +2473,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4266217|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000036AS07
-[165]
+[157]
 Name=MURILLO-08-COORDINADOR
 Description=
 Workgroup=MURILLO
@@ -2608,11 +2488,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C41BF7DF|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000036AS08
-[166]
+[158]
 Name=MURILLO-09
 Description=
 Workgroup=MURILLO
@@ -2623,11 +2503,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=4061868D7EC9|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000036AS10
-[167]
+[159]
 Name=MURILLO-10
 Description=BQAD5000036AS10
 Workgroup=MURILLO
@@ -2638,11 +2518,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=78E3B5C35D1B|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBQAD500525BO01
-[168]
+[160]
 Name=MURILLO-11
 Description=
 Workgroup=MURILLO
@@ -2653,11 +2533,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=001C25C39105|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBQAD500525AS11
-[169]
+[161]
 Name=MURILLO-12
 Description=
 Workgroup=MURILLO
@@ -2668,11 +2548,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9EF900|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000036A12
-[170]
+[162]
 Name=MURILLO-13
 Description=
 Workgroup=MURILLO
@@ -2683,11 +2563,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9EFBA3|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARD5000036AS13
-[171]
+[163]
 Name=MURILLO-14
 Description=RBQAD5000036AS14
 Workgroup=MURILLO
@@ -2698,11 +2578,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=78E3B5C0F395|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBQAD500525AS12
-[172]
+[164]
 Name=MURILLO-15
 Description=
 Workgroup=MURILLO
@@ -2713,11 +2593,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9F0196|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BAQD5000036AS15
-[173]
+[165]
 Name=MURILLO-16
 Description=
 Workgroup=MURILLO
@@ -2728,11 +2608,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=001C25C39105|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000036AS16
-[174]
+[166]
 Name=MURILLO-17
 Description=
 Workgroup=MURILLO
@@ -2743,11 +2623,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9F0191|
-MACDateStamp=41850
+MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARD5000036AS17
-[175]
+[167]
 Name=MONTERI-08
 Description=
 Workgroup=MONTERIA NORTE
@@ -2762,7 +2642,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000518AS06
-[176]
+[168]
 Name=FORD-14
 Description=pc DAÑADO
 Workgroup=FORD
@@ -2777,7 +2657,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471
-[177]
+[169]
 Name=Mod 12
 Description=
 Workgroup=OCEAN MALL 2
@@ -2792,7 +2672,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDSROMERO
-[178]
+[170]
 Name=Mod 05
 Description=
 Workgroup=OCEAN MALL 2
@@ -2807,7 +2687,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=PC DAÑADO
-[179]
+[171]
 Name=MODULO 06
 Description=
 Workgroup=PORTAL DEL PRADO
@@ -2822,7 +2702,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000508AS06
-[180]
+[172]
 Name=MODULO 08
 Description=
 Workgroup=PORTAL DEL PRADO
@@ -2837,7 +2717,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000508AS01
-[181]
+[173]
 Name=MODULO 07
 Description=10.75.36.140
 Workgroup=PORTAL DEL PRADO
@@ -2852,7 +2732,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000508AS07
-[182]
+[174]
 Name=MODULO 11
 Description=10.75.36.62
 Workgroup=PORTAL DEL PRADO
@@ -2867,7 +2747,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000508AS11
-[183]
+[175]
 Name=MOD01-RIOHACHA
 Description=RIOD4000403AS1
 Workgroup=RIOHACHA
@@ -2882,7 +2762,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RIOD4000403AS1
-[184]
+[176]
 Name=MOD02-RIOHACHA
 Description=RIOD5000403ST01
 Workgroup=RIOHACHA
@@ -2897,7 +2777,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RIOD5000403ST01
-[185]
+[177]
 Name=MOD03-RIOHACHA
 Description=RIOD5000403AS03
 Workgroup=RIOHACHA
@@ -2912,7 +2792,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RIOD5000403AS03
-[186]
+[178]
 Name=MOD04-RIOHACHA
 Description=RRIOD500403AS04
 Workgroup=RIOHACHA
@@ -2927,7 +2807,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RRIOD500403AS04
-[187]
+[179]
 Name=MOD05-RIOHACHA
 Description=RIOD5000403AS02
 Workgroup=RIOHACHA
@@ -2942,7 +2822,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RIOD5000403AS02
-[188]
+[180]
 Name=MOD06-RIOHACHA
 Description=RRIOD500403AS14
 Workgroup=RIOHACHA
@@ -2957,7 +2837,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RRIOD500403AS14
-[189]
+[181]
 Name=MOD07-RIOHACHA
 Description=RIOD4000403AS02
 Workgroup=RIOHACHA
@@ -2972,7 +2852,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RIOD4000403AS02
-[190]
+[182]
 Name=MOD08-RIOHACHA
 Description=CRIOASEPC08
 Workgroup=RIOHACHA
@@ -2987,7 +2867,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=CRIOASEPC08
-[191]
+[183]
 Name=MOD09-RIOHACHA
 Description=RIOD4000403AS09
 Workgroup=RIOHACHA
@@ -3002,7 +2882,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RIOD4000403AS09
-[192]
+[184]
 Name=MOD10-RIOHACHA
 Description=RRIOD500403AS13
 Workgroup=RIOHACHA
@@ -3017,7 +2897,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RRIOD500403AS13
-[193]
+[185]
 Name=MOD11-RIOHACHA
 Description=RRIOD500403AS11
 Workgroup=RIOHACHA
@@ -3032,7 +2912,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RRIOD500403AS11
-[194]
+[186]
 Name=CRD-RIOHACHA
 Description=RRIOD500403CO01
 Workgroup=RIOHACHA
@@ -3047,7 +2927,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RRIOD500403CO01
-[195]
+[187]
 Name=SANTA M-01
 Description=SMTD5000038AS05
 Workgroup=SANTA MARTA
@@ -3062,7 +2942,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS18
-[196]
+[188]
 Name=SANTA M-02
 Description=SMTD5000038AS02
 Workgroup=SANTA MARTA
@@ -3077,7 +2957,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=.....
-[197]
+[189]
 Name=SANTA M-03
 Description=
 Workgroup=SANTA MARTA
@@ -3092,7 +2972,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=...SMTD5000038AS11
-[198]
+[190]
 Name=SANTA M-04
 Description=
 Workgroup=SANTA MARTA
@@ -3107,7 +2987,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS04
-[199]
+[191]
 Name=SANTA M-05
 Description=10.75.2.43
 Workgroup=SANTA MARTA
@@ -3122,7 +3002,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=...SMTD5000038AS13
-[200]
+[192]
 Name=SANTA M-06
 Description=10.75.2.80
 Workgroup=SANTA MARTA
@@ -3137,7 +3017,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS08
-[201]
+[193]
 Name=SANTA M-07
 Description=10.75.2.67
 Workgroup=SANTA MARTA
@@ -3152,7 +3032,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038DI01
-[202]
+[194]
 Name=SANTA M-08
 Description=10.75.2.23
 Workgroup=SANTA MARTA
@@ -3167,7 +3047,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS10
-[203]
+[195]
 Name=SANTA M-09
 Description=10.75.2.178
 Workgroup=SANTA MARTA
@@ -3182,7 +3062,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=...RSTMD500038AS01
-[204]
+[196]
 Name=SANTA M-10
 Description=10.75.2.141
 Workgroup=SANTA MARTA
@@ -3197,7 +3077,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=RSMTD500038AS10
-[205]
+[197]
 Name=SANTA M-11
 Description=
 Workgroup=SANTA MARTA
@@ -3212,7 +3092,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=RSMTD500038AS07
-[206]
+[198]
 Name=SANTA M-12
 Description=10.75.2.160
 Workgroup=SANTA MARTA
@@ -3227,7 +3107,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=...SMTD5000038AS11
-[207]
+[199]
 Name=SANTA M-13
 Description=10.75.2.145
 Workgroup=SANTA MARTA
@@ -3242,7 +3122,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS08
-[208]
+[200]
 Name=SANTA M-14
 Description=10.75.2.140
 Workgroup=SANTA MARTA
@@ -3257,7 +3137,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS28
-[209]
+[201]
 Name=SANTA M-15
 Description=10.75.2.146
 Workgroup=SANTA MARTA
@@ -3272,7 +3152,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS15
-[210]
+[202]
 Name=SANTA M-16
 Description=10.75.2.37
 Workgroup=SANTA MARTA
@@ -3287,7 +3167,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS16
-[211]
+[203]
 Name=SANTA M-17
 Description=10.75.2.44
 Workgroup=SANTA MARTA
@@ -3302,7 +3182,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS12
-[212]
+[204]
 Name=SANTA M-18
 Description=SMTD5000038AS18
 Workgroup=SANTA MARTA
@@ -3317,7 +3197,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS22
-[213]
+[205]
 Name=SANTA M-19
 Description=10.75.2.48
 Workgroup=SANTA MARTA
@@ -3332,7 +3212,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS13
-[214]
+[206]
 Name=SOLEDAD-01
 Description=
 Workgroup=SOLEDAD
@@ -3347,7 +3227,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD5000426AS02
-[215]
+[207]
 Name=SOLEDAD-02
 Description=
 Workgroup=SOLEDAD
@@ -3362,7 +3242,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD5000426AS01
-[216]
+[208]
 Name=SOLEDAD-03
 Description=
 Workgroup=SOLEDAD
@@ -3377,7 +3257,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD5000426AS03
-[217]
+[209]
 Name=SOLEDAD-04
 Description=
 Workgroup=SOLEDAD
@@ -3392,7 +3272,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD5000426AS04
-[218]
+[210]
 Name=SOLEDAD-05
 Description=
 Workgroup=SOLEDAD
@@ -3407,7 +3287,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD5000426AS05
-[219]
+[211]
 Name=SOLEDAD-06
 Description=
 Workgroup=SOLEDAD
@@ -3422,7 +3302,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000426AS06
-[220]
+[212]
 Name=SOLEDAD-07
 Description=
 Workgroup=SOLEDAD
@@ -3437,7 +3317,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD5000426ST01
-[221]
+[213]
 Name=SOLEDAD-08
 Description=
 Workgroup=SOLEDAD
@@ -3452,7 +3332,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD5000426AS07
-[222]
+[214]
 Name=SOLEDAD-09
 Description=
 Workgroup=SOLEDAD
@@ -3467,7 +3347,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD500426AS09P
-[223]
+[215]
 Name=SOLEDAD-10
 Description=
 Workgroup=SOLEDAD
@@ -3482,7 +3362,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD5000426AS10
-[224]
+[216]
 Name=SOLEDAD-11
 Description=
 Workgroup=SOLEDAD
@@ -3497,7 +3377,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD5000426AS11
-[225]
+[217]
 Name=SOLEDAD-12
 Description=
 Workgroup=SOLEDAD
@@ -3512,7 +3392,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=SOLD5000426AS12
-[226]
+[218]
 Name=MOD01-UNICOBQ
 Description=BQAD5000520AS01
 Workgroup=UNICO BAQ
@@ -3527,7 +3407,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS01
-[227]
+[219]
 Name=MOD02-UNICOBQ
 Description=BQAD5000520AS02
 Workgroup=UNICO BAQ
@@ -3542,7 +3422,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS02
-[228]
+[220]
 Name=MOD03-UNICOBQ
 Description=BQAD5000520AS03
 Workgroup=UNICO BAQ
@@ -3557,7 +3437,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS03
-[229]
+[221]
 Name=MOD05-UNICOBQ
 Description=BQAD5000520AS05
 Workgroup=UNICO BAQ
@@ -3572,7 +3452,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS05
-[230]
+[222]
 Name=MOD06-UNICOBQ
 Description=BQAD5000520AS06
 Workgroup=UNICO BAQ
@@ -3587,7 +3467,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS06
-[231]
+[223]
 Name=MOD07-UNICOBQ
 Description=BQAD5000520AS04
 Workgroup=UNICO BAQ
@@ -3602,7 +3482,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS04
-[232]
+[224]
 Name=MOD08-UNICOBQ
 Description=BQAD5000520AS08
 Workgroup=UNICO BAQ
@@ -3617,7 +3497,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS08
-[233]
+[225]
 Name=MOD09-UNICOBQ
 Description=BQAD5000520AS04
 Workgroup=UNICO BAQ
@@ -3632,7 +3512,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS04
-[234]
+[226]
 Name=VALLEDU-01
 Description=10.75.26.95
 Workgroup=VALLEDUPAR
@@ -3647,7 +3527,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040AS14
-[235]
+[227]
 Name=VALLEDU-03
 Description=10.75.26.251
 Workgroup=VALLEDUPAR
@@ -3662,7 +3542,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040AS01
-[236]
+[228]
 Name=VALLEDU-04
 Description=10.75.26.144
 Workgroup=VALLEDUPAR
@@ -3677,7 +3557,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040AS10
-[237]
+[229]
 Name=VALLEDU-06
 Description=10.75.26.94
 Workgroup=VALLEDUPAR
@@ -3692,7 +3572,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040AS03
-[238]
+[230]
 Name=VALLEDU-05
 Description=10.75.26.73
 Workgroup=VALLEDUPAR
@@ -3707,7 +3587,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040AS16
-[239]
+[231]
 Name=VALLEDU-09
 Description=10.75.26.85
 Workgroup=VALLEDUPAR
@@ -3722,7 +3602,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VLAD5000040AS07
-[240]
+[232]
 Name=VALLEDU-08
 Description=
 Workgroup=VALLEDUPAR
@@ -3737,7 +3617,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040AS15
-[241]
+[233]
 Name=VALLEDU-11
 Description=10.75.26.59
 Workgroup=VALLEDUPAR
@@ -3752,7 +3632,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040AS09
-[242]
+[234]
 Name=VALLEDU-11-COORDINADOR
 Description=10.75.26.92
 Workgroup=VALLEDUPAR
@@ -3767,7 +3647,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040AS10
-[243]
+[235]
 Name=VALLEDU-12
 Description=10.75.26.115
 Workgroup=VALLEDUPAR
@@ -3782,7 +3662,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=RVILD4000041AS1
-[244]
+[236]
 Name=VALLEDU-13
 Description=
 Workgroup=VALLEDUPAR
@@ -3797,7 +3677,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040AS17
-[245]
+[237]
 Name=SANTA M-20
 Description=
 Workgroup=SANTA MARTA
@@ -3812,7 +3692,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS19
-[246]
+[238]
 Name=ADMINISTRADOR
 Description=
 Workgroup=CASTELLANA
@@ -3827,7 +3707,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AD01
-[247]
+[239]
 Name=ADMINISTRADOR
 Description=
 Workgroup=CRA 54
@@ -3842,7 +3722,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD50035AD01
-[248]
+[240]
 Name=ADMINISTRADOR
 Description=
 Workgroup=PORTAL DEL PRADO
@@ -3857,7 +3737,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000508AD01
-[249]
+[241]
 Name=Santa M-21
 Description=SMTD5000038AS22
 Workgroup=SANTA MARTA
@@ -3872,7 +3752,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=..SMTD5000038AS08
-[250]
+[242]
 Name=MOD03-CORPORATIVO
 Description=BQAPYME03
 Workgroup=CORPORATIVO BARRANQUILLA
@@ -3887,7 +3767,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAPYME03
-[251]
+[243]
 Name=MOD04-CORPORATIVO
 Description=BQADPYME05
 Workgroup=CORPORATIVO BARRANQUILLA
@@ -3902,7 +3782,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQADPYME05
-[252]
+[244]
 Name=Modulo 03
 Description=SIN PC
 Workgroup=CALLE 82
@@ -3917,7 +3797,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIN PC
-[253]
+[245]
 Name=Modulo 04
 Description=
 Workgroup=CALLE 82
@@ -3932,7 +3812,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAL5000540AS05
-[254]
+[246]
 Name=Modulo 05
 Description=
 Workgroup=CALLE 82
@@ -3947,7 +3827,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000540AS18
-[255]
+[247]
 Name=Modulo 08
 Description=
 Workgroup=CALLE 82
@@ -3962,7 +3842,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000540AS15
-[256]
+[248]
 Name=Modulo 16
 Description=
 Workgroup=CALLE 82
@@ -3977,7 +3857,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAL5000540AS10
-[257]
+[249]
 Name=Modulo  01
 Description=
 Workgroup=CALLE 82
@@ -3992,7 +3872,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAL5000540AS06
-[258]
+[250]
 Name=Modulo 14
 Description=
 Workgroup=CALLE 82
@@ -4007,7 +3887,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAL5000540AS14
-[259]
+[251]
 Name=Modulo 07
 Description=
 Workgroup=CALLE 82
@@ -4022,7 +3902,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000540AS16
-[260]
+[252]
 Name=Modulo 12
 Description=
 Workgroup=CALLE 82
@@ -4037,7 +3917,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAL5000540AS12
-[261]
+[253]
 Name=MODULO 06
 Description=
 Workgroup=CORDIALIDAD
@@ -4052,7 +3932,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS05
-[262]
+[254]
 Name=Modulo 01
 Description=
 Workgroup=SAN FERNANDO
@@ -4067,7 +3947,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS01
-[263]
+[255]
 Name=Modulo 08
 Description=
 Workgroup=SAN FERNANDO
@@ -4082,7 +3962,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS08
-[264]
+[256]
 Name=Modulo 12
 Description=
 Workgroup=SAN FERNANDO
@@ -4097,7 +3977,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS12
-[265]
+[257]
 Name=Modulo 16
 Description=
 Workgroup=SAN FERNANDO
@@ -4112,7 +3992,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS16
-[266]
+[258]
 Name=Modulo 04
 Description=
 Workgroup=SAN FERNANDO
@@ -4127,7 +4007,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGL500524AS04
-[267]
+[259]
 Name=Modulo 11
 Description=
 Workgroup=SAN FERNANDO
@@ -4142,7 +4022,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS11
-[268]
+[260]
 Name=Modulo 03
 Description=
 Workgroup=SAN FERNANDO
@@ -4157,7 +4037,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS03
-[269]
+[261]
 Name=Modulo 05
 Description=
 Workgroup=SAN FERNANDO
@@ -4172,7 +4052,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS05
-[270]
+[262]
 Name=Modulo 14
 Description=
 Workgroup=SAN FERNANDO
@@ -4187,7 +4067,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS14
-[271]
+[263]
 Name=Modulo 06
 Description=
 Workgroup=SAN FERNANDO
@@ -4202,7 +4082,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS06
-[272]
+[264]
 Name=Modulo 09
 Description=
 Workgroup=SAN FERNANDO
@@ -4217,7 +4097,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS09
-[273]
+[265]
 Name=Modulo 07
 Description=
 Workgroup=SAN FERNANDO
@@ -4232,7 +4112,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS07
-[274]
+[266]
 Name=MODULO 03
 Description=
 Workgroup=CORDIALIDAD
@@ -4247,7 +4127,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS10
-[275]
+[267]
 Name=MODULO 02
 Description=
 Workgroup=CORDIALIDAD
@@ -4262,7 +4142,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500252AS09
-[276]
+[268]
 Name=MODULO 08
 Description=
 Workgroup=CORDIALIDAD
@@ -4277,7 +4157,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS04
-[277]
+[269]
 Name=MODULO 04
 Description=
 Workgroup=CORDIALIDAD
@@ -4292,7 +4172,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS08
-[278]
+[270]
 Name=MODULO 13
 Description=
 Workgroup=CORDIALIDAD
@@ -4307,7 +4187,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS13
-[279]
+[271]
 Name=MODULO 05
 Description=
 Workgroup=CORDIALIDAD
@@ -4322,7 +4202,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS11
-[280]
+[272]
 Name=MODULO 01
 Description=
 Workgroup=PORTAL DEL PRADO
@@ -4337,7 +4217,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBAQD500508AS01
-[281]
+[273]
 Name=MODULO 07
 Description=
 Workgroup=CORDIALIDAD
@@ -4352,7 +4232,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS03
-[282]
+[274]
 Name=MODULO 09
 Description=
 Workgroup=CORDIALIDAD
@@ -4367,7 +4247,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS02
-[283]
+[275]
 Name=MODULO 10
 Description=
 Workgroup=CORDIALIDAD
@@ -4382,7 +4262,7 @@ MACDateStamp=41835
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD500525AS06
-[284]
+[276]
 Name=MODULO 03
 Description=
 Workgroup=PORTAL DEL PRADO
@@ -4397,7 +4277,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBAQD500508AS03
-[285]
+[277]
 Name=MODULO 10
 Description=
 Workgroup=PORTAL DEL PRADO
@@ -4412,7 +4292,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000508A10
-[286]
+[278]
 Name=MODULO 12
 Description=RBAQD500508AS12
 Workgroup=PORTAL DEL PRADO
@@ -4427,7 +4307,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.36.51
-[287]
+[279]
 Name=MODULO 04
 Description=
 Workgroup=PORTAL DEL PRADO
@@ -4442,7 +4322,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000508AS4
-[288]
+[280]
 Name=MOD10-UNICOBQ
 Description=BQAD5000520AS10
 Workgroup=UNICO BAQ
@@ -4457,7 +4337,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS10
-[289]
+[281]
 Name=ADM-UNICOBQ
 Description=BQAD5000520AD01
 Workgroup=UNICO BAQ
@@ -4472,7 +4352,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AD01
-[290]
+[282]
 Name=MOD04-UNICOBQ
 Description=BQAD5000520A07
 Workgroup=UNICO BAQ
@@ -4487,7 +4367,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520A07
-[291]
+[283]
 Name=MODULO 09
 Description=
 Workgroup=PORTAL DEL PRADO
@@ -4502,7 +4382,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000508AS9
-[292]
+[284]
 Name=MODULO 13
 Description=BQAD5000508AS13
 Workgroup=PORTAL DEL PRADO
@@ -4517,7 +4397,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.36.42
-[293]
+[285]
 Name=MODULO 14
 Description=BQAD50508AS11-P
 Workgroup=PORTAL DEL PRADO
@@ -4532,7 +4412,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.36.81
-[294]
+[286]
 Name=MODULO 15
 Description=
 Workgroup=PORTAL DEL PRADO
@@ -4547,277 +4427,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000508AS15
-[295]
-Name=CENTRO_MAYOR_MOD-02;;"CENTRO MAYOR";2012;BOGD1000511AS16;
-Description=CENTRO_MAYOR_MOD-02;;"CENTRO MAYOR";2012;BOGD1000511AS16;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[296]
-Name=CENTRO_MAYOR_MOD-03;;"CENTRO MAYOR";2012;BOGD1000511AS17;
-Description=CENTRO_MAYOR_MOD-03;;"CENTRO MAYOR";2012;BOGD1000511AS17;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[297]
-Name=CENTRO_MAYOR_MOD-04;;"CENTRO MAYOR";2012;BOGD1000511AS06;
-Description=CENTRO_MAYOR_MOD-04;;"CENTRO MAYOR";2012;BOGD1000511AS06;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[298]
-Name=CENTRO_MAYOR_MOD-06;;"CENTRO MAYOR";2012;BOGD1000511AS08;
-Description=CENTRO_MAYOR_MOD-06;;"CENTRO MAYOR";2012;BOGD1000511AS08;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[299]
-Name=CENTRO_MAYOR_MOD-07;;"CENTRO MAYOR";2012;BOGD1000511AS12;
-Description=CENTRO_MAYOR_MOD-07;;"CENTRO MAYOR";2012;BOGD1000511AS12;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[300]
-Name=CENTRO_MAYOR_MOD-08;;"CENTRO MAYOR";2012;BOGD1000511AS11;
-Description=CENTRO_MAYOR_MOD-08;;"CENTRO MAYOR";2012;BOGD1000511AS11;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[301]
-Name=CENTRO_MAYOR_MOD-01;;"CENTRO MAYOR";2012;BOGD1000511AS15;
-Description=CENTRO_MAYOR_MOD-01;;"CENTRO MAYOR";2012;BOGD1000511AS15;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[302]
-Name=CENTRO_MAYOR_MOD-09;;"CENTRO MAYOR";2012;BOGD1000511AS10;
-Description=CENTRO_MAYOR_MOD-09;;"CENTRO MAYOR";2012;BOGD1000511AS10;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[303]
-Name=CENTRO_MAYOR_MOD-10;;"CENTRO MAYOR";2012;BOGD1000511AS01;
-Description=CENTRO_MAYOR_MOD-10;;"CENTRO MAYOR";2012;BOGD1000511AS01;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[304]
-Name=CENTRO_MAYOR_MOD-11;;"CENTRO MAYOR";2012;BOGD1000511AS14;
-Description=CENTRO_MAYOR_MOD-11;;"CENTRO MAYOR";2012;BOGD1000511AS14;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[305]
-Name=CENTRO_MAYOR_MOD-12;;"CENTRO MAYOR";2012;BOGD1000511AS07;
-Description=CENTRO_MAYOR_MOD-12;;"CENTRO MAYOR";2012;BOGD1000511AS07;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[306]
-Name=CENTRO_MAYOR_MOD-13;;"CENTRO MAYOR";2012;BOGD1000511AS05;
-Description=CENTRO_MAYOR_MOD-13;;"CENTRO MAYOR";2012;BOGD1000511AS05;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[307]
-Name=CENTRO_MAYOR_MOD-14;;"CENTRO MAYOR";2012;BOGD1000511AS13;
-Description=CENTRO_MAYOR_MOD-14;;"CENTRO MAYOR";2012;BOGD1000511AS13;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[308]
-Name=CENTRO_MAYOR_MOD-15;;"CENTRO MAYOR";2012;BOGD1000511AS03;
-Description=CENTRO_MAYOR_MOD-15;;"CENTRO MAYOR";2012;BOGD1000511AS03;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[309]
-Name=CENTRO_MAYOR_MOD-16;;"CENTRO MAYOR";2012;BOGD1000511AS04;
-Description=CENTRO_MAYOR_MOD-16;;"CENTRO MAYOR";2012;BOGD1000511AS04;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[310]
-Name=CENTRO_MAYOR_MOD-17;;"CENTRO MAYOR";2012;BOGD1000511AS19;
-Description=CENTRO_MAYOR_MOD-17;;"CENTRO MAYOR";2012;BOGD1000511AS19;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[311]
-Name=CENTRO_MAYOR_MOD-18;;"CENTRO MAYOR";2012;BOGD1000511AS18;
-Description=CENTRO_MAYOR_MOD-18;;"CENTRO MAYOR";2012;BOGD1000511AS18;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[312]
-Name=CENTRO_MAYOR_COOPER;;"CENTRO MAYOR";2012;BOGD1000511AS02;
-Description=CENTRO_MAYOR_COOPER;;"CENTRO MAYOR";2012;BOGD1000511AS02;
-Workgroup=
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=
-[313]
+[287]
 Name=Mod 08
 Description=
 Workgroup=MAYALES
@@ -4832,7 +4442,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000523AS08
-[314]
+[288]
 Name=Mod 05
 Description=
 Workgroup=MAYALES
@@ -4847,7 +4457,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD500523AS05
-[315]
+[289]
 Name=Mod 07
 Description=
 Workgroup=MAYALES
@@ -4862,7 +4472,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000523AS07
-[316]
+[290]
 Name=Mod 01
 Description=
 Workgroup=MAYALES
@@ -4877,7 +4487,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALL500523AS02
-[317]
+[291]
 Name=Mod 13
 Description=
 Workgroup=MAYALES
@@ -4892,7 +4502,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000523AS13
-[318]
+[292]
 Name=Mod 04
 Description=
 Workgroup=MAYALES
@@ -4907,7 +4517,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD500523AS04
-[319]
+[293]
 Name=MOD11-UNICOBQ
 Description=BQAD5000520AS11
 Workgroup=UNICO BAQ
@@ -4922,37 +4532,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS11
-[320]
-Name=BUENAVI-11
-Description=
-Workgroup=BUENAVISTA
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=7845C42717E9|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=BQAD5000517A11
-[321]
-Name=BUENAVI-12
-Description=
-Workgroup=BUENAVISTA
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=7845C409B8FA|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=BQAD5000517AS12
-[322]
+[294]
 Name=MODULO 02
 Description=
 Workgroup=PORTAL DEL PRADO
@@ -4967,7 +4547,7 @@ MACDateStamp=41915
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBAQD500508AS02
-[323]
+[295]
 Name=CARIBE -10
 Description=
 Workgroup=CARIBE PLAZA
@@ -4982,7 +4562,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS10
-[324]
+[296]
 Name=CARIBE -13
 Description=
 Workgroup=CARIBE PLAZA
@@ -4997,7 +4577,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS12
-[325]
+[297]
 Name=CARIBE -12
 Description=CTGD5000504AS09
 Workgroup=CARIBE PLAZA
@@ -5012,7 +4592,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS09
-[326]
+[298]
 Name=CARIBE -11
 Description=
 Workgroup=CARIBE PLAZA
@@ -5027,7 +4607,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS11
-[327]
+[299]
 Name=VALLEDU-10
 Description=
 Workgroup=VALLEDUPAR
@@ -5042,7 +4622,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=CDSV07
-[328]
+[300]
 Name=Mod 03
 Description=
 Workgroup=OCEAN MALL 2
@@ -5057,7 +4637,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDJCABRERA
-[329]
+[301]
 Name=Mod 08
 Description=
 Workgroup=OCEAN MALL 2
@@ -5072,7 +4652,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDJPARDO
-[330]
+[302]
 Name=Mod 07
 Description=
 Workgroup=OCEAN MALL 2
@@ -5087,7 +4667,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDSFORERO
-[331]
+[303]
 Name=Mod 04
 Description=
 Workgroup=OCEAN MALL 2
@@ -5102,7 +4682,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDMVELASQUEZ
-[332]
+[304]
 Name=Mod 06
 Description=
 Workgroup=OCEAN MALL 2
@@ -5117,7 +4697,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDJCELEDON
-[333]
+[305]
 Name=Mod 10
 Description=
 Workgroup=OCEAN MALL 2
@@ -5132,7 +4712,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDDPALMA
-[334]
+[306]
 Name=Mod 11
 Description=
 Workgroup=OCEAN MALL 2
@@ -5147,7 +4727,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDRGARCIA
-[335]
+[307]
 Name=Mod 09
 Description=
 Workgroup=OCEAN MALL 2
@@ -5162,7 +4742,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDFMONTECRIST
-[336]
+[308]
 Name=Mod 01
 Description=
 Workgroup=OCEAN MALL 2
@@ -5177,7 +4757,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=STMD5000532AS01
-[337]
+[309]
 Name=Mod 02
 Description=
 Workgroup=OCEAN MALL 2
@@ -5192,7 +4772,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=STMD5000532AS02
-[338]
+[310]
 Name=CAST 01
 Description=10.75.22.38
 Workgroup=CASTELLANA
@@ -5207,7 +4787,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGL5000435BO01
-[339]
+[311]
 Name=CAST 17
 Description=
 Workgroup=CASTELLANA
@@ -5222,7 +4802,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS17
-[340]
+[312]
 Name=CAST 02
 Description=
 Workgroup=CASTELLANA
@@ -5237,7 +4817,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435CO02
-[341]
+[313]
 Name=CAST 14
 Description=
 Workgroup=CASTELLANA
@@ -5252,7 +4832,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS14
-[342]
+[314]
 Name=CAST 03
 Description=
 Workgroup=CASTELLANA
@@ -5267,7 +4847,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435CJ03
-[343]
+[315]
 Name=anantes-651-1-49-net[6]
 Description=
 Workgroup=CASTELLANA
@@ -5282,7 +4862,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.22.56
-[344]
+[316]
 Name=CAST 04
 Description=
 Workgroup=CASTELLANA
@@ -5297,7 +4877,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS01
-[345]
+[317]
 Name=CAST 06
 Description=
 Workgroup=CASTELLANA
@@ -5312,7 +4892,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCTGD500435AS01
-[346]
+[318]
 Name=CAST 09
 Description=
 Workgroup=CASTELLANA
@@ -5327,7 +4907,7 @@ MACDateStamp=41800
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000435AS18
-[347]
+[319]
 Name=Modulo 10
 Description=
 Workgroup=SAN FERNANDO
@@ -5342,7 +4922,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS10
-[348]
+[320]
 Name=Modulo 13
 Description=
 Workgroup=SAN FERNANDO
@@ -5357,7 +4937,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS13
-[349]
+[321]
 Name=Modulo 15
 Description=
 Workgroup=SAN FERNANDO
@@ -5372,7 +4952,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS15
-[350]
+[322]
 Name=Modulo 02
 Description=10.75.60.48 * CTGD500524AS02
 Workgroup=SAN FERNANDO
@@ -5387,67 +4967,7 @@ MACDateStamp=41926
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD500524AS02
-[351]
-Name=MANDETORRES
-Description=
-Workgroup=
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=F8B156B149E5|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=MANDETORRES
-[352]
-Name=MAND2000608AS02
-Description=
-Workgroup=
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=F8B156B14E59|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=MAND2000608AS02
-[353]
-Name=COLOMBIAMOVIL
-Description=
-Workgroup=
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=COLOMBIAMOVIL
-[354]
-Name=MAND2000608AS01
-Description=
-Workgroup=
-Port=2012
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=F8B156B147A2|
-MACDateStamp=41928
-FirstConnectionCommand=
-ColGroup=0
-Address1=MAND2000608AS01
-[355]
+[323]
 Name=Mod 09
 Description=
 Workgroup=MAYALES
@@ -5462,7 +4982,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000523AS09
-[356]
+[324]
 Name=Mod 12
 Description=
 Workgroup=MAYALES
@@ -5477,7 +4997,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000523AS12
-[357]
+[325]
 Name=Mod 06
 Description=
 Workgroup=MAYALES
@@ -5492,7 +5012,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000523AS06
-[358]
+[326]
 Name=Mod 01
 Description=10.75.64.41
 Workgroup=BUENAVISTA STM
@@ -5507,7 +5027,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDCDURAN
-[359]
+[327]
 Name=Mod 07
 Description=
 Workgroup=BUENAVISTA STM
@@ -5522,7 +5042,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDCMONSALVE
-[360]
+[328]
 Name=Mod 06
 Description=
 Workgroup=BUENAVISTA STM
@@ -5537,7 +5057,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDFFADUL
-[361]
+[329]
 Name=Mod 05
 Description=
 Workgroup=BUENAVISTA STM
@@ -5552,7 +5072,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDCMAY
-[362]
+[330]
 Name=Mod 04
 Description=10.75.64.24
 Workgroup=BUENAVISTA STM
@@ -5567,7 +5087,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDMLOPEZ
-[363]
+[331]
 Name=Mod 03
 Description=10.75.64.31
 Workgroup=BUENAVISTA STM
@@ -5582,7 +5102,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDCCARRENO
-[364]
+[332]
 Name=Mod 02
 Description=10.75.64.39
 Workgroup=BUENAVISTA STM
@@ -5597,7 +5117,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDJPEREZ
-[365]
+[333]
 Name=Mod 11
 Description=
 Workgroup=MAYALES
@@ -5612,7 +5132,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000523AS11
-[366]
+[334]
 Name=Mod 10
 Description=
 Workgroup=MAYALES
@@ -5627,7 +5147,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000523AS10
-[367]
+[335]
 Name=Mod 02
 Description=
 Workgroup=MAYALES
@@ -5642,7 +5162,7 @@ MACDateStamp=41859
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALL500523AS03
-[368]
+[336]
 Name=MOD12-UNICOBQ
 Description=BQAD5000520AS12
 Workgroup=UNICO BAQ
@@ -5657,7 +5177,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520AS12
-[369]
+[337]
 Name=VALLEDU-02
 Description=
 Workgroup=VALLEDUPAR
@@ -5672,7 +5192,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040DI01
-[370]
+[338]
 Name=VALLEDU-07
 Description=
 Workgroup=VALLEDUPAR
@@ -5687,7 +5207,7 @@ MACDateStamp=41856
 FirstConnectionCommand=
 ColGroup=0
 Address1=VALD5000040AS04
-[371]
+[339]
 Name=Mod 09
 Description=
 Workgroup=BUENAVISTA STM
@@ -5702,7 +5222,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000538AS01
-[372]
+[340]
 Name=Mod 10
 Description=
 Workgroup=BUENAVISTA STM
@@ -5717,7 +5237,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTLAGRANADOS
-[373]
+[341]
 Name=Mod 11
 Description=
 Workgroup=BUENAVISTA STM
@@ -5732,7 +5252,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000538AS02
-[374]
+[342]
 Name=Mod 12
 Description=
 Workgroup=BUENAVISTA STM
@@ -5747,7 +5267,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTLMDAZA
-[375]
+[343]
 Name=Modulo 17
 Description=SIN PC
 Workgroup=CALLE 82
@@ -5762,7 +5282,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIN PC
-[376]
+[344]
 Name=Modulo 18
 Description=
 Workgroup=CALLE 82
@@ -5777,7 +5297,7 @@ MACDateStamp=41920
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARD5000503AS04
-[377]
+[345]
 Name=Modulo 19
 Description=
 Workgroup=CALLE 82
@@ -5792,7 +5312,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARD5000503AS07
-[378]
+[346]
 Name=Modulo 20
 Description=
 Workgroup=CALLE 82
@@ -5807,7 +5327,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000540AS19
-[379]
+[347]
 Name=Modulo 01
 Description=10.75.48.34
 Workgroup=ARRECIFE
@@ -5822,7 +5342,7 @@ MACDateStamp=41922
 FirstConnectionCommand=
 ColGroup=0
 Address1=RSNTD500519AS01
-[380]
+[348]
 Name=Modulo 05
 Description=10.75.48.45
 Workgroup=ARRECIFE
@@ -5837,7 +5357,7 @@ MACDateStamp=41922
 FirstConnectionCommand=
 ColGroup=0
 Address1=RSNTD500519BO01
-[381]
+[349]
 Name=Modulo 04
 Description=10.75.48.80
 Workgroup=ARRECIFE
@@ -5852,7 +5372,7 @@ MACDateStamp=41922
 FirstConnectionCommand=
 ColGroup=0
 Address1=RSNTD500519AS04
-[382]
+[350]
 Name=Modulo 03
 Description=10.75.48.103
 Workgroup=ARRECIFE
@@ -5867,7 +5387,7 @@ MACDateStamp=41922
 FirstConnectionCommand=
 ColGroup=0
 Address1=RSNTD500519AS03
-[383]
+[351]
 Name=Modulo 02
 Description=10.75.48.113
 Workgroup=ARRECIFE
@@ -5882,7 +5402,7 @@ MACDateStamp=41922
 FirstConnectionCommand=
 ColGroup=0
 Address1=RSNTD500519AS02
-[384]
+[352]
 Name=SANTA M-22
 Description=SMTD5000038AS22
 Workgroup=SANTA MARTA
@@ -5897,7 +5417,7 @@ MACDateStamp=41927
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS22
-[385]
+[353]
 Name=ADM-RIOHACHA
 Description=RIOD5000403AD01
 Workgroup=RIOHACHA
@@ -5912,7 +5432,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RIOD5000403AD01
-[386]
+[354]
 Name=BOD-RIOHACHA
 Description=RRIOD500403ASB
 Workgroup=RIOHACHA
@@ -5927,7 +5447,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RRIOD500403ASB
-[387]
+[355]
 Name=ST-RIOHACHA
 Description=RIOD5000403AS03
 Workgroup=RIOHACHA
@@ -5942,7 +5462,7 @@ MACDateStamp=41928
 FirstConnectionCommand=
 ColGroup=0
 Address1=RIOD5000403AS03
-[388]
+[356]
 Name=ADM-CORPORATIVO
 Description=BQALSVARELA
 Workgroup=CORPORATIVO BARRANQUILLA
@@ -5957,7 +5477,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQALSVARELA
-[389]
+[357]
 Name=CRD-CORPORATIVO
 Description=BARDPYME08
 Workgroup=CORPORATIVO BARRANQUILLA
@@ -5972,7 +5492,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARDPYME08
-[390]
+[358]
 Name=CRD-UNICOBQ
 Description=BQAD5000520CO09
 Workgroup=UNICO BAQ
@@ -5987,7 +5507,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520CO09
-[391]
+[359]
 Name=DGT-UNICOBQ
 Description=BQAD5000520DIG
 Workgroup=UNICO BAQ
@@ -6002,7 +5522,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000520DIG
-[392]
+[360]
 Name=BOD-UNICOBQ
 Description=AD3440-25
 Workgroup=UNICO BAQ
@@ -6017,3 +5537,228 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=AD3440-25
+[361]
+Name=CRD-BUENAVISTA
+Description=BQAD5000517CO01
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517CO01
+[362]
+Name=ADM-BUENAVISTA
+Description=BQAD5000517AD01
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=7845C424B4CA|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517AD01
+[363]
+Name=MOD01-BUENAVISTA
+Description=BQAD5000517AS11
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=A41F72785638|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517AS11
+[364]
+Name=MOD02-BUENAVISTA
+Description=BQAD5000517AS2
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=A41F7278537E|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517AS2
+[365]
+Name=MOD03-BUENAVISTA
+Description=BQAD5000517AS3
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=4061868B61F4|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517AS3
+[366]
+Name=MOD04-BUENAVISTA
+Description=RBAQD500517AS05
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=448A5BBF5179|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=RBAQD500517AS05
+[367]
+Name=MOD05-BUENAVISTA
+Description=RBAQD500517AS07
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=448A5BBF517B|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=RBAQD500517AS07
+[368]
+Name=MOD06-BUENAVISTA
+Description=BQAD5000517AS4
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=7845C409FBD6|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517AS4
+[369]
+Name=MOD07-BUEVAVISTA
+Description=RBAQD500517CJ03
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=448A5BBF50CA|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=RBAQD500517CJ03
+[370]
+Name=MOD08-BUENAVISTA
+Description=BQAD5000517AS8
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=7845C42719D6|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517AS8
+[371]
+Name=MOD09-BUENAVISTA
+Description=BQAD5000517AS09
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=A41F72778814|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517AS09
+[372]
+Name=MOD10-BUENAVISTA
+Description=BQAD5000517A010
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=6C626D9EF9BC|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517A010
+[373]
+Name=MOD11-BUENAVISTA
+Description=BQAD5000517A11
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=7845C42717E9|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517A11
+[374]
+Name=MOD12-BUENAVISTA
+Description=BQAD5000517AS12
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=7845C409B8FA|
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517AS12
+[375]
+Name=BOD-BUENAVISTA
+Description=BQAD5000517BO01
+Workgroup=BUENAVISTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=
+MACDateStamp=41928
+FirstConnectionCommand=
+ColGroup=0
+Address1=BQAD5000517BO01
