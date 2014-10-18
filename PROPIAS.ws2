@@ -14213,10 +14213,10 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDL200430AS22
 [919]
-Name=Mod ST - El Tesoro
+Name=Mod ST - San Diego
 Description=
 Workgroup=SAN DIEGO
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
