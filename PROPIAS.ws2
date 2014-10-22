@@ -449,7 +449,7 @@ WPW90=0
 WPS90=0
 WFL90=0
 WUC90=0
-ActiveName=MANIZALES EXPRESS
+ActiveName=PUERTA DEL NORTE
 DefaultWGID=0
 DefaultWUC=0
 [1]
@@ -8718,52 +8718,52 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=MEDD2000473AS10
 [552]
-Name=PUERTA -01
-Description=
+Name=Mod 01 - Puerta del Norte
+Description=BELD20005AS01
 Workgroup=PUERTA DEL NORTE
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4271977|
-MACDateStamp=41892
+MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
-Address1=BELD2000595AS01
+Address1=BELD20005AS01
 [553]
-Name=PUERTA -02
+Name=Mod 02 - Puerta del Norte
 Description=10.74.36.27
 Workgroup=PUERTA DEL NORTE
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C409B23A|
-MACDateStamp=41892
+MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=BELD2000595AS02
 [554]
-Name=PUERTA -03
+Name=Mod 03 - Puerta del Norte
 Description=10.74.36.23
 Workgroup=PUERTA DEL NORTE
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C408A749|
-MACDateStamp=41892
+MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=BELD2000595AS03
 [555]
-Name=PUERTA -04
+Name=Mod 04 - Puerta del Norte
 Description=10.74.36.20
 Workgroup=PUERTA DEL NORTE
 Port=2012
@@ -8773,57 +8773,57 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=78E3B5C4441D|
-MACDateStamp=41892
+MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBELD200595AS13
+Address1=BELD2000595AS4
 [556]
-Name=PUERTA -05
+Name=Mod 05 - Puerta del Norte
 Description=
 Workgroup=PUERTA DEL NORTE
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C409BA00|
-MACDateStamp=41892
+MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=BELD2000595AS05
 [557]
-Name=PUERTA -06
+Name=Mod 06 - Puerta del Norte
 Description=10.74.36.19
 Workgroup=PUERTA DEL NORTE
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C409BA1A|
-MACDateStamp=41892
+MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=BELD2000595AS06
 [558]
-Name=PUERTA -07
+Name=Mod 07 - Puerta del Norte
 Description=10.74.36.17
 Workgroup=PUERTA DEL NORTE
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C409BC31|
-MACDateStamp=41892
+MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=BELD2000595AS07
 [559]
-Name=PUERTA -08
+Name=Mod 08 - Puerta del Norte
 Description=
 Workgroup=PUERTA DEL NORTE
 Port=2012
@@ -8833,10 +8833,10 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C40A68FF|
-MACDateStamp=41892
+MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
-Address1=BELD2000595AS04
+Address1=BELD2000595AS14
 [560]
 Name=RIOHACH-01
 Description=10.75.18.40
@@ -11958,7 +11958,7 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=
 [768]
-Name=PUERTA 11
+Name=Mod 11 - Puerta del Norte
 Description=
 Workgroup=PUERTA DEL NORTE
 Port=2012
@@ -11968,25 +11968,25 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=78E3B5C43687|
-MACDateStamp=41892
+MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBELD200595AS11
+Address1=BELD200595AS11
 [769]
-Name=PUERTA 10
+Name=Mod 10 - Puerta del Norte
 Description=
 Workgroup=PUERTA DEL NORTE
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
 MACAddress=74D02BC6EB34|
-MACDateStamp=41892
+MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBELD200595AS10
+Address1=BELD200595AS10
 [770]
 Name=Mod 04 - El Tesoro
 Description=
@@ -14718,6 +14718,21 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=MZLD2000608CJ01 
 [952]
+Name=Mod 09 - Puerta del Norte
+Description=
+Workgroup=PUERTA DEL NORTE
+Port=0
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=7845C40A68FF|
+MACDateStamp=41934
+FirstConnectionCommand=
+ColGroup=0
+Address1=BELD2000595AS04
+[953]
 Name=Mod Coord - Express Manizales
 Description=
 Workgroup=MANIZALES EXPRESS
@@ -14732,7 +14747,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=MANDETORRES
-[953]
+[954]
 Name=Mod Adm - Express Manizales
 Description=
 Workgroup=MANIZALES EXPRESS
@@ -14747,7 +14762,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=MANDABETANCURT
-[954]
+[955]
 Name=Mod GB - Express Manizales
 Description=
 Workgroup=MANIZALES EXPRESS
@@ -14762,7 +14777,37 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=MAND2000608AS05
-[955]
+[956]
+Name=Mod 12 - Puerta del Norte
+Description=
+Workgroup=PUERTA DEL NORTE
+Port=0
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=
+MACDateStamp=0
+FirstConnectionCommand=
+ColGroup=0
+Address1=BELD200595AS13
+[957]
+Name=Mod 13 - Puerta del Norte
+Description=
+Workgroup=PUERTA DEL NORTE
+Port=0
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=7845C4222006|
+MACDateStamp=41934
+FirstConnectionCommand=
+ColGroup=0
+Address1=BELD2000595AS09
+[958]
 Name=Mod Bodega - Express Manizales
 Description=
 Workgroup=MANIZALES EXPRESS
@@ -14777,7 +14822,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=MZLD200608AS02
-[956]
+[959]
 Name=Mod Adm - Premium Plaza
 Description=
 Workgroup=PREMIUM PLAZA
@@ -14792,7 +14837,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=MEDD2000473AD01
-[957]
+[960]
 Name=Mod Coord
 Description=
 Workgroup=PREMIUM PLAZA
@@ -14807,7 +14852,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDD2000473CO01
-[958]
+[961]
 Name=Mod GB - Premium Plaza
 Description=
 Workgroup=PREMIUM PLAZA
@@ -14822,7 +14867,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDL2000473AS11
-[959]
+[962]
 Name=Mod ST - Premium Plaza
 Description=
 Workgroup=PREMIUM PLAZA
@@ -14837,7 +14882,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=MEDD2000473ST01
-[960]
+[963]
 Name=Mod Bodega - Premium Plaza
 Description=
 Workgroup=PREMIUM PLAZA
@@ -14852,7 +14897,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDL2000473AS12
-[961]
+[964]
 Name=Mod Adm - Cartago
 Description=
 Workgroup=CARTAGO
@@ -14867,7 +14912,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCARL300428AD01
-[962]
+[965]
 Name=Mod Coord - Cartago
 Description=
 Workgroup=CARTAGO
@@ -14882,7 +14927,7 @@ MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTOD3000428AD01
-[963]
+[966]
 Name=Mod Bodega - Cartago
 Description=
 Workgroup=CARTAGO
@@ -14897,7 +14942,7 @@ MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCARL300428BO01
-[964]
+[967]
 Name=Mod Adm - Envigado
 Description=
 Workgroup=ENVIGADO
@@ -14912,7 +14957,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=MEDD2000462AD1
-[965]
+[968]
 Name=Mod Coord - Envigado
 Description=
 Workgroup=ENVIGADO
@@ -14927,7 +14972,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ENVD2000462CD01
-[966]
+[969]
 Name=Mod Bodega - Envigado
 Description=
 Workgroup=ENVIGADO
@@ -14942,7 +14987,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RENVL200462VO01
-[967]
+[970]
 Name=Mod 09 - Armenia
 Description=
 Workgroup=ARMENIA
@@ -14957,7 +15002,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=ARMDRGALLEGO
-[968]
+[971]
 Name=Mod 10 - Armenia
 Description=
 Workgroup=ARMENIA
@@ -14972,7 +15017,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=RARMDKDAZA
-[969]
+[972]
 Name=Mod Adm - Armenia
 Description=
 Workgroup=ARMENIA
@@ -14987,7 +15032,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=ARMDLROJAS
-[970]
+[973]
 Name=Mod Bodega - Armenia
 Description=
 Workgroup=ARMENIA
@@ -15002,7 +15047,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=RARML200022BO01
-[971]
+[974]
 Name=Mod Coord - Armenia
 Description=
 Workgroup=ARMENIA
@@ -15017,7 +15062,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=ARMD2000022AS06
-[972]
+[975]
 Name=Mod GB 1 - Armenia
 Description=
 Workgroup=ARMENIA
@@ -15032,7 +15077,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=ARMDACASTANO
-[973]
+[976]
 Name=Mod GB 2 - Armenia
 Description=
 Workgroup=ARMENIA
@@ -15047,7 +15092,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=RARML200022AS13
-[974]
+[977]
 Name=Mod GB 3 - Armenia
 Description=
 Workgroup=ARMENIA
@@ -15062,7 +15107,22 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=RARML200022AS12
-[975]
+[978]
+Name=Mod Bodega - Puerta del Norte
+Description=
+Workgroup=PUERTA DEL NORTE
+Port=0
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=
+MACDateStamp=0
+FirstConnectionCommand=
+ColGroup=0
+Address1=BELD200595AS14
+[979]
 Name=Mod Coord - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15077,7 +15137,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERDEPARRA
-[976]
+[980]
 Name=Mod 01 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15092,7 +15152,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERD2000616AS01
-[977]
+[981]
 Name=Mod 07 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15107,7 +15167,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERL2000616AS07
-[978]
+[982]
 Name=Mod 09 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15122,7 +15182,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERL2000616AS09
-[979]
+[983]
 Name=Mod 08 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15137,7 +15197,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERL2000616AS08
-[980]
+[984]
 Name=Mod 10 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15152,7 +15212,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERL2000616AS10
-[981]
+[985]
 Name=Mod ST - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15167,7 +15227,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERL2000616AS11
-[982]
+[986]
 Name=Mod GB - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15182,7 +15242,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERL2000616AS12
-[983]
+[987]
 Name=Mod GB 2 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15197,7 +15257,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERL2000616AS13
-[984]
+[988]
 Name=Mod 03 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15212,7 +15272,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERD2000616AS03
-[985]
+[989]
 Name=Mod 04 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15227,7 +15287,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERL2000616AS04
-[986]
+[990]
 Name=Mod 05 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15242,7 +15302,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERL2000616AS05
-[987]
+[991]
 Name=Mod 02 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15257,7 +15317,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERD2000616AS02
-[988]
+[992]
 Name=Mod Adm - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15272,7 +15332,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERLCRIVERA
-[989]
+[993]
 Name=Mod 06 - Arboleda
 Description=
 Workgroup=ARBOLEDA
@@ -15287,7 +15347,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERL2000616AS06
-[990]
+[994]
 Name=Mod 07 - Centro Medellin
 Description=
 Workgroup=CENTRO MEDELLIN
@@ -15302,7 +15362,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMED20019AS07
-[991]
+[995]
 Name=Mod 08 - Centro Medellin
 Description=
 Workgroup=CENTRO MEDELLIN
@@ -15317,7 +15377,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDL20019AS08
-[992]
+[996]
 Name=Mod 09 - Centro Medellin
 Description=
 Workgroup=CENTRO MEDELLIN
@@ -15332,7 +15392,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDL200019AS09
-[993]
+[997]
 Name=Mod 10 - Centro Medellin
 Description=
 Workgroup=CENTRO MEDELLIN
@@ -15347,7 +15407,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDL20019AS10
-[994]
+[998]
 Name=Mod 16 - Centro Medellin
 Description=
 Workgroup=CENTRO MEDELLIN
@@ -15362,7 +15422,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDD20019AS16
-[995]
+[999]
 Name=Mod Coord 2P - Centro Medellin
 Description=
 Workgroup=CENTRO MEDELLIN
@@ -15377,7 +15437,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=MEDD2000019CD01
-[996]
+[1000]
 Name=Mod Coord 1P - Centro Medellin
 Description=
 Workgroup=CENTRO MEDELLIN
@@ -15392,7 +15452,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=MEDD2000019ADM
-[997]
+[1001]
 Name=Mod Adm - Centro Medellin
 Description=
 Workgroup=CENTRO MEDELLIN
@@ -15407,7 +15467,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDD200019AS18
-[998]
+[1002]
 Name=Mod ST - Centro Medellin
 Description=
 Workgroup=CENTRO MEDELLIN
@@ -15422,7 +15482,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=PCPC-PC
-[999]
+[1003]
 Name=Mod Bodega - La America
 Description=
 Workgroup=LA AMERICA
@@ -15437,7 +15497,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=MEDD2000017AS08
-[1000]
+[1004]
 Name=Mod Adm - La America
 Description=
 Workgroup=LA AMERICA
@@ -15452,7 +15512,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDL200594AB01
-[1001]
+[1005]
 Name=Mod GB - La America
 Description=
 Workgroup=LA AMERICA
@@ -15467,7 +15527,7 @@ MACDateStamp=41933
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMEDL200594AS09
-[1002]
+[1006]
 Name=Mod Adm - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15482,7 +15542,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ADRIANA.DIAZ
-[1003]
+[1007]
 Name=Mod 01 - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15497,7 +15557,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ASESOR01
-[1004]
+[1008]
 Name=Mod 02 - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15512,7 +15572,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=DIGITURNO1
-[1005]
+[1009]
 Name=Mod 03 - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15527,7 +15587,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ASESOR03
-[1006]
+[1010]
 Name=Mod 04 - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15542,7 +15602,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ASESOR04
-[1007]
+[1011]
 Name=Mod 05 - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15557,7 +15617,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ASESOR05
-[1008]
+[1012]
 Name=Mod 06 - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15572,7 +15632,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=ASESOR06
-[1009]
+[1013]
 Name=Mod 07 - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15587,7 +15647,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ASESOR07
-[1010]
+[1014]
 Name=Mod 08 - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15602,7 +15662,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ASESOR03
-[1011]
+[1015]
 Name=Mod GB - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15617,7 +15677,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=CAJA02
-[1012]
+[1016]
 Name=Mod Bodega - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
@@ -15632,7 +15692,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=INVENTARIO01
-[1013]
+[1017]
 Name=Mod Adm - Pereira
 Description=
 Workgroup=PEREIRA
@@ -15647,7 +15707,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERDJZAMORA
-[1014]
+[1018]
 Name=Mod Coord - Pereira
 Description=
 Workgroup=PEREIRA
@@ -15662,7 +15722,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERD2000391AS05
-[1015]
+[1019]
 Name=Mod 07 - Pereira
 Description=
 Workgroup=PEREIRA
@@ -15677,7 +15737,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERD2000391CO01
-[1016]
+[1020]
 Name=Mod Bodega - Pereira
 Description=
 Workgroup=PEREIRA
@@ -15692,7 +15752,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=RPERL200391BO01
-[1017]
+[1021]
 Name=Mod Legalizador - Pereira
 Description=
 Workgroup=PEREIRA
@@ -15707,7 +15767,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERD2000391AS10
-[1018]
+[1022]
 Name=Mod Caja 1 - Pereira
 Description=
 Workgroup=PEREIRA
@@ -15722,7 +15782,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERD2000391CJ02
-[1019]
+[1023]
 Name=Mod Caja 2 - Pereira
 Description=
 Workgroup=PEREIRA
@@ -15737,7 +15797,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=PERD2000391CJ01
-[1020]
+[1024]
 Name=Mod Ventas 2 - Unicentro Armenia
 Description=
 Workgroup=UNICENTRO ARMENIA
@@ -15752,7 +15812,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ARML2000610TM1
-[1021]
+[1025]
 Name=Mod Coord - Unicentro Armenia
 Description=
 Workgroup=UNICENTRO ARMENIA
@@ -15767,7 +15827,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1= RARML20022AS04
-[1022]
+[1026]
 Name=Mod Bodega - Unicentro Armenia
 Description=
 Workgroup=UNICENTRO ARMENIA
@@ -15782,7 +15842,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RARML200610BO01
-[1023]
+[1027]
 Name=Mod Adm - Unicentro Armenia
 Description=
 Workgroup=UNICENTRO ARMENIA
@@ -15797,7 +15857,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RARMLATRUJILLO
-[1024]
+[1028]
 Name=Mod GB - Unicentro Armenia
 Description=
 Workgroup=UNICENTRO ARMENIA
@@ -15812,7 +15872,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ARMD2000610AS0
-[1025]
+[1029]
 Name=Mod Caja - Unicentro Armenia
 Description=
 Workgroup=UNICENTRO ARMENIA
@@ -15827,7 +15887,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=ARMD200061CJ01
-[1026]
+[1030]
 Name=Mod Ventas - Unicentro Armenia
 Description=
 Workgroup=UNICENTRO ARMENIA
@@ -15842,3 +15902,33 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RARML200610AS05
+[1031]
+Name=Mod ST - Puerta del Norte
+Description=
+Workgroup=PUERTA DEL NORTE
+Port=0
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=
+MACDateStamp=0
+FirstConnectionCommand=
+ColGroup=0
+Address1=RBELD200585AS18
+[1032]
+Name=Mod Coord - Puerta del Norte
+Description=
+Workgroup=PUERTA DEL NORTE
+Port=0
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=
+MACDateStamp=0
+FirstConnectionCommand=
+ColGroup=0
+Address1=BELD2000595CO01
