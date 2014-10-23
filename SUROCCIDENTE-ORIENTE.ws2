@@ -104,7 +104,7 @@ WPW21=0
 WPS21=0
 WFL21=0
 WUC21=0
-ActiveName=CANAVERAL
+ActiveName=BARRANCABERMEJA
 DefaultWGID=2048
 DefaultWUC=0
 [1]
@@ -118,7 +118,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=002481EAC8AC|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARDOQUINTANILL
@@ -133,13 +133,13 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=4061868D8053|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARDACARPINTERO
 [3]
 Name=BARRANC-05
-Description=10.77.8.85 BARD4000444AS02
+Description=
 Workgroup=BARRANCABERMEJA
 Port=2012
 AutoConnect=1
@@ -148,10 +148,10 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C409BBB5|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBARD400444AS04
+Address1=10.77.8.30
 [4]
 Name=BARRANC-08
 Description=
@@ -163,7 +163,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C409B236|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARD4000444AS06
@@ -178,7 +178,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C409BBB5|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARD4000444AS05
@@ -193,13 +193,13 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C42719DC|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
-Address1=CBMJAASEPC-04
+Address1=10.77.8.31
 [7]
 Name=BARRANC-03
-Description=10.77.8.84
+Description=
 Workgroup=BARRANCABERMEJA
 Port=2012
 AutoConnect=1
@@ -208,10 +208,10 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=4061868B6222|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
-Address1=10.77.8.84
+Address1=10.77.8.44
 [8]
 Name=BUENAVE-01
 Description=
@@ -718,7 +718,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4270C1C|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCD4000024AS01
@@ -733,7 +733,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4266358|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCD4000024AS02
@@ -748,7 +748,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=0
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCD4000024CO01
@@ -763,7 +763,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4270BF8|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCD4000024AS04
@@ -778,7 +778,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4261390|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCD4000024AS05
@@ -2263,7 +2263,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C425CF28|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCD4000024AS10
@@ -2278,7 +2278,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C42613C8|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCD4000024VE02
@@ -2413,7 +2413,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7427EAFB038D|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBARD400444AS05
@@ -2778,36 +2778,21 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=TUND4000042BO01
 [179]
-Name=INVENTARIO
-Description=
-Workgroup=BARRANCABERMEJA
-Port=0
-AutoConnect=1
-AutoWGID=0
-TempWGID=0
-PX=-1
-PY=-1
-MACAddress=4437E6DD79AF|
-MACDateStamp=41934
-FirstConnectionCommand=
-ColGroup=0
-Address1=RBARD400444BO01
-[180]
 Name=ADMINISTRADOR
 Description=
 Workgroup=BARRANCABERMEJA
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
-MACAddress=
-MACDateStamp=41934
+MACAddress=002481EAC8AC|
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
-Address1=AD4444-01
-[181]
+Address1=10.77.8.26
+[180]
 Name=COORDINADOR
 Description=
 Workgroup=BARRANCABERMEJA
@@ -2818,11 +2803,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=2016D8962F01|843A4B29C1C7|843A4B29C1C7|843A4B29C1C6|B8CA3AC643B9|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BARD4000444AS08
-[182]
+[181]
 Name=COORDINADOR
 Description=
 Workgroup=POPAYAN
@@ -2837,7 +2822,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=POPD300031CO01
-[183]
+[182]
 Name=ADMINISTRADOR
 Description=
 Workgroup=UNICO
@@ -2852,7 +2837,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=CALD300439AD01
-[184]
+[183]
 Name=COORDINADOR
 Description=
 Workgroup=UNICO
@@ -2867,7 +2852,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCALD300439CO01
-[185]
+[184]
 Name=MOD 02
 Description=
 Workgroup=UNICO
@@ -2882,7 +2867,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCALD300439AS02
-[186]
+[185]
 Name=MOD 06
 Description=
 Workgroup=UNICO
@@ -2897,7 +2882,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCALD300439AS06
-[187]
+[186]
 Name=MOD 07
 Description=
 Workgroup=UNICO
@@ -2912,7 +2897,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=CALL3000439AS07
-[188]
+[187]
 Name=BODEGA
 Description=
 Workgroup=UNICO
@@ -2927,7 +2912,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCALL300439BO01
-[189]
+[188]
 Name=ADMINISTRADOR
 Description=
 Workgroup=CENTRO
@@ -2942,7 +2927,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCD4000506AD01
-[190]
+[189]
 Name=COORDINADOR
 Description=
 Workgroup=CENTRO
@@ -2957,7 +2942,7 @@ MACDateStamp=41934
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCDKCONTRERAS
-[191]
+[190]
 Name=MOD-10
 Description=
 Workgroup=CENTRO
@@ -2972,7 +2957,7 @@ MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBUCL4000506VO01
-[192]
+[191]
 Name=MOD-02
 Description=
 Workgroup=CANAVERAL
@@ -2983,11 +2968,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C409B875|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCD4000024AS08
-[193]
+[192]
 Name=GENIUS BAR
 Description=
 Workgroup=CANAVERAL
@@ -2998,11 +2983,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=F8B156D296F0|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCDDPINEDA
-[194]
+[193]
 Name=COORDINADOR
 Description=
 Workgroup=CANAVERAL
@@ -3013,11 +2998,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=0
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCD4000024AD01
-[195]
+[194]
 Name=ADMINISTRADOR
 Description=
 Workgroup=CANAVERAL
@@ -3028,11 +3013,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=8086F22E6DAB|8086F22E6DAE|8086F22E6DAA|ECF4BB2D07DE|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=BUCLJBALLEN
-[196]
+[195]
 Name=BODEGA
 Description=
 Workgroup=CANAVERAL
@@ -3043,11 +3028,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=0
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBUCD400024BO01
-[197]
+[196]
 Name=CAJA
 Description=
 Workgroup=CANAVERAL
@@ -3058,7 +3043,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=40A8F0597349|
-MACDateStamp=41934
+MACDateStamp=41935
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBUCD400024CJ01
