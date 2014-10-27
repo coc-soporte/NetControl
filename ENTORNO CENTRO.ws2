@@ -114,7 +114,7 @@ WPW23=759
 WPS23=0
 WFL23=0
 WUC23=0
-ActiveName=CHIA
+ActiveName=HACIENDA STA BARBARA
 DefaultWGID=1047
 DefaultWUC=0
 [1]
@@ -4738,6 +4738,21 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BOGD102063AS01
 [309]
+Name=Mod 01 
+Description=
+Workgroup=HACIENDA STA BARBARA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=12
+PY=-23
+MACAddress=
+MACDateStamp=0
+FirstConnectionCommand=
+ColGroup=0
+Address1=RBOGL102063AS01
+[310]
 Name=Mod 06
 Description=
 Workgroup=CHIA
@@ -4752,7 +4767,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGD102069AS06
-[310]
+[311]
 Name=Mod 09
 Description=
 Workgroup=CHIA
@@ -4767,7 +4782,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGD102069AS09
-[311]
+[312]
 Name=Coord 01
 Description=
 Workgroup=CHIA
@@ -4782,7 +4797,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGD102069CO01
-[312]
+[313]
 Name=Mod 04
 Description=
 Workgroup=CHIA
@@ -4797,7 +4812,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGL102069AS04
-[313]
+[314]
 Name=Mod 03
 Description=
 Workgroup=CHIA
@@ -4812,7 +4827,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGL102069AS03
-[314]
+[315]
 Name=Mod 06
 Description=10.81.12.149
 Workgroup=HACIENDA STA BARBARA
@@ -4827,7 +4842,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGD102063AS06
-[315]
+[316]
 Name=Admin
 Description=
 Workgroup=CHIA
@@ -4842,7 +4857,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGLCGARCIA
-[316]
+[317]
 Name=Mod 02
 Description=
 Workgroup=CHIA
@@ -4857,7 +4872,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGL102069AS02
-[317]
+[318]
 Name=Mod 08
 Description=
 Workgroup=CHIA
@@ -4872,7 +4887,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGD102069AS08
-[318]
+[319]
 Name=Mod 05
 Description=
 Workgroup=CHIA
@@ -4887,7 +4902,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=BOGD1002063AS05
-[319]
+[320]
 Name=Mod 11
 Description=
 Workgroup=CHIA
@@ -4902,7 +4917,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGD102063AS06
-[320]
+[321]
 Name=Mod 03
 Description=10.81.12.151
 Workgroup=HACIENDA STA BARBARA
@@ -4910,14 +4925,14 @@ Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
-PX=197
-PY=-45
+PX=317
+PY=-31
 MACAddress=40F02F722C38|A45D36D15377|40F02F71CEAA|
 MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGL102063AS03
-[321]
+[322]
 Name=Caja 01
 Description=
 Workgroup=HACIENDA STA BARBARA
@@ -4925,14 +4940,14 @@ Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
-PX=64
-PY=195
+PX=94
+PY=271
 MACAddress=4437E6DD78C7|
 MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.81.12.156
-[322]
+[323]
 Name=Caja 1
 Description=
 Workgroup=CHIA
@@ -4947,7 +4962,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.81.12.156
-[323]
+[324]
 Name=Mod 10
 Description=
 Workgroup=CHIA
@@ -4962,7 +4977,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGD102063AS8
-[324]
+[325]
 Name=Mod 04
 Description=
 Workgroup=HACIENDA STA BARBARA
@@ -4970,14 +4985,14 @@ Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
-PX=404
-PY=-45
+PX=470
+PY=-6
 MACAddress=4437E6DD7A87|
 MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGD102063AS04
-[325]
+[326]
 Name=Mod 05
 Description=
 Workgroup=HACIENDA STA BARBARA
@@ -4985,14 +5000,14 @@ Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
-PX=562
-PY=-47
+PX=615
+PY=-27
 MACAddress=4437E6DD7C89|
 MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=BOGD1002063AS05
-[326]
+[327]
 Name=Mod 07
 Description=
 Workgroup=HACIENDA STA BARBARA
@@ -5007,7 +5022,7 @@ MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
 Address1=RBOGD102063AS07
-[327]
+[328]
 Name=Mod 08
 Description=10.81.12.159
 Workgroup=HACIENDA STA BARBARA
@@ -5021,4 +5036,94 @@ MACAddress=4437E6DD7AB1|
 MACDateStamp=41939
 FirstConnectionCommand=
 ColGroup=0
-Address1=10.81.12.159
+Address1=RBOGD102063AS8
+[329]
+Name=Mod 02
+Description=
+Workgroup=HACIENDA STA BARBARA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=175
+PY=-22
+MACAddress=A45D36D1C9D2|40F02F71B3E4|
+MACDateStamp=41939
+FirstConnectionCommand=
+ColGroup=0
+Address1=RBOGL102063AS02
+[330]
+Name=Mod 09
+Description=
+Workgroup=HACIENDA STA BARBARA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=3417EBC253F6|
+MACDateStamp=41939
+FirstConnectionCommand=
+ColGroup=0
+Address1=BOGD102063AS09
+[331]
+Name=Mod 10
+Description=
+Workgroup=HACIENDA STA BARBARA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=4437E6DD7AB1|
+MACDateStamp=41939
+FirstConnectionCommand=
+ColGroup=0
+Address1=BOGD102063AS10
+[332]
+Name=Mod 11
+Description=
+Workgroup=HACIENDA STA BARBARA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=3417EBC24454|
+MACDateStamp=41939
+FirstConnectionCommand=
+ColGroup=0
+Address1=BOGD102063AS11
+[333]
+Name=Mod 12
+Description=
+Workgroup=HACIENDA STA BARBARA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=F8B156D27BD3|
+MACDateStamp=41939
+FirstConnectionCommand=
+ColGroup=0
+Address1=BOGD102063AS12
+[334]
+Name=Mod 13
+Description=
+Workgroup=HACIENDA STA BARBARA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=F8B156D290E7|
+MACDateStamp=41939
+FirstConnectionCommand=
+ColGroup=0
+Address1=BOGD102063AS13
