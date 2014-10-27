@@ -1404,7 +1404,7 @@ ColGroup=0
 Address1=RPASD300034AS05
 [87]
 Name=PASTO-11
-Description=  10.72.18.64
+Description=10.72.18.64
 Workgroup=PASTO
 Port=2012
 AutoConnect=1
