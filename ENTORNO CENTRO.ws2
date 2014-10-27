@@ -4724,7 +4724,7 @@ ColGroup=0
 Address1=RBOGL102069AS12
 [308]
 Name=Mod 01
-Description=
+Description=Modulo 1
 Workgroup=CHIA
 Port=2012
 AutoConnect=1
