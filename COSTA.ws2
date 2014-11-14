@@ -6154,7 +6154,7 @@ ColGroup=0
 Address1=ADMINISTRADOR
 [402]
 Name=ADM-SANTAMARTA
-Description=SMTD5000038AD03
+Description=Portátil - Administrador - SMTD5000038AD03
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6169,7 +6169,7 @@ ColGroup=0
 Address1=SMTD5000038AD03
 [403]
 Name=MOD04-SANTAMARTA
-Description=SMTD5000038AD02
+Description=PC - SMTD5000038AD02
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6184,7 +6184,7 @@ ColGroup=0
 Address1=SMTD5000038AD02
 [404]
 Name=CRD2-SANTAMARTA
-Description=RSMTD500038C001
+Description=Portátil - Coordinador 2 - RSMTD500038C001
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6198,8 +6198,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=RSMTD500038C001
 [405]
-Name=MOD23(LT)-SANTAMARTA
-Description=
+Name=MOD23-SANTAMARTA
+Description=Portátil - SMTL5000038AS09
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6213,8 +6213,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS09
 [406]
-Name=MOD27(LT)-SANTAMARTA
-Description=SMTL5000038AS11
+Name=MOD27-SANTAMARTA
+Description=Portátil - SMTL5000038AS11
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6229,7 +6229,7 @@ ColGroup=0
 Address1=SMTL5000038AS11
 [407]
 Name=CRD1-SANTAMARTA
-Description=
+Description=Portátil - Coordinador 1 - SMTLMLOPEZ
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6244,7 +6244,7 @@ ColGroup=0
 Address1=SMTLMLOPEZ
 [408]
 Name=GB2-SANTAMARTA
-Description=SMTL5000038AS17
+Description=Portátil - Genius Bar - SMTL5000038AS17
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6259,7 +6259,7 @@ ColGroup=0
 Address1=SMTL5000038AS17
 [409]
 Name=GB4-SANTAMARTA
-Description=SMTL5000038AS17
+Description=Portátil - Genius Bar - SMTL5000038AS17
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6274,7 +6274,7 @@ ColGroup=0
 Address1=SMTL5000038AS17
 [410]
 Name=MOD07-SANTAMARTA
-Description=SMTD5000038AS09
+Description=PC - SMTD5000038AS09
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6289,7 +6289,7 @@ ColGroup=0
 Address1=SMTD5000038AS09
 [411]
 Name=MOD08-SANTAMARTA
-Description=SMTD5000038AS20
+Description=PC - SMTD5000038AS20
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6304,7 +6304,7 @@ ColGroup=0
 Address1=SMTD5000038AS20
 [412]
 Name=MOD09-SANTAMARTA
-Description=SMTD5000038AS19
+Description=PC - SMTD5000038AS19
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6319,7 +6319,7 @@ ColGroup=0
 Address1=SMTD5000038AS19
 [413]
 Name=GB3-SANTAMARTA
-Description=
+Description=Portátil - Genius Bar - 
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6333,8 +6333,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=*PENDIENTE
 [414]
-Name=MOD15(LT)-SANTAMARTA-ok
-Description=SMTL5000038AS01
+Name=MOD15(LT)-SANTAMARTA
+Description=PC - SMTL5000038AS01
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6348,8 +6348,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS01
 [415]
-Name=MOD16(LT)-SANTAMARTA
-Description=SMTL5000038AS02
+Name=MOD16-SANTAMARTA
+Description=Portátil - SMTL5000038AS02
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6363,8 +6363,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS02
 [416]
-Name=MOD17(LT)-SANTAMARTA
-Description=SMTL5000038AS03
+Name=MOD17-SANTAMARTA
+Description=Portátil - SMTL5000038AS03
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6378,8 +6378,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS03
 [417]
-Name=MOD18(LT)-SANTAMARTA
-Description=SMTL5000038AS04
+Name=MOD18-SANTAMARTA
+Description=Portátil - SMTL5000038AS04
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6393,8 +6393,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS04
 [418]
-Name=MOD19(LT)-SANTAMARTA
-Description=SMTL5000038AS05
+Name=MOD19-SANTAMARTA
+Description=Portátil - SMTL5000038AS05
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6408,8 +6408,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS05
 [419]
-Name=MOD20(LT)-SANTAMARTA
-Description=SMTL5000038AS06
+Name=MOD20-SANTAMARTA
+Description=Portátil - SMTL5000038AS06
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6423,8 +6423,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS06
 [420]
-Name=MOD21(LT)-SANTAMARTA
-Description=SMTL5000038AS07
+Name=MOD21-SANTAMARTA
+Description=Portátil - SMTL5000038AS07
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6438,8 +6438,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS07
 [421]
-Name=MOD22(ST)-SANTAMARTA
-Description=SMTD5000038AS06
+Name=MOD22-SANTAMARTA
+Description=PC - Cooper - SMTD5000038AS06
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6453,8 +6453,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS06
 [422]
-Name=MOD24(LT)-SANTAMARTA
-Description=SMTL5000038AS10
+Name=MOD24-SANTAMARTA
+Description=Portátil - SMTL5000038AS10
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6468,8 +6468,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS10
 [423]
-Name=MOD25(LT)-SANTAMARTA
-Description=SMTL5000038AS11
+Name=MOD25-SANTAMARTA
+Description=Portátil - SMTL5000038AS11
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6484,7 +6484,7 @@ ColGroup=0
 Address1=SMTL5000038AS11
 [424]
 Name=MOD12-SANTAMARTA
-Description=SMTD5000038AS12
+Description=PC - SMTD5000038AS12
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6499,7 +6499,7 @@ ColGroup=0
 Address1=SMTD5000038AS12
 [425]
 Name=MOD10-SANTAMARTA
-Description=SMTD5000038AS13
+Description=PC - SMTD5000038AS13
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6514,7 +6514,7 @@ ColGroup=0
 Address1=SMTD5000038AS13
 [426]
 Name=MOD03-SANTAMARTA
-Description=SMTD5000038AS15
+Description=PC - SMTD5000038AS15
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6529,7 +6529,7 @@ ColGroup=0
 Address1=SMTD5000038AS15
 [427]
 Name=MOD06-SANTAMARTA
-Description=SMTD5000038AS16
+Description= PC - SMTD5000038AS16
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6544,7 +6544,7 @@ ColGroup=0
 Address1=SMTD5000038AS16
 [428]
 Name=GB1-SANTAMARTA
-Description=SMTL5000038AS17
+Description=Portátil - Genius Bar - SMTL5000038AS17
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -6559,7 +6559,7 @@ ColGroup=0
 Address1=SMTL5000038AS17
 [429]
 Name=MOD05-SANTAMARTA
-Description=RSMTD500038AS07
+Description=PC - RSMTD500038AS07
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -7009,7 +7009,7 @@ ColGroup=0
 Address1=BQAL5000540BO01
 [459]
 Name=MOD02-SANTAMARTA
-Description=
+Description=PC - SMTD5000038DI01
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -7024,7 +7024,7 @@ ColGroup=0
 Address1=SMTD5000038DI01
 [460]
 Name=MOD01-SANTAMARTA
-Description=
+Description=PC - SMTD5000038AS21
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
@@ -7039,7 +7039,7 @@ ColGroup=0
 Address1=SMTD5000038AS21
 [461]
 Name=MOD11-SANTAMARTA
-Description=SMTD5000038AS22
+Description=PC - SMTD5000038AS22
 Workgroup=SANTA MARTA
 Port=2012
 AutoConnect=1
