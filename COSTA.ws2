@@ -135,7 +135,11 @@ WPS27=0
 WFL27=0
 WUC27=0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ActiveName=MONTERIA
+=======
+ActiveName=CARIBE PLAZA
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 DefaultWGID=0
 =======
 ActiveName=SANTA MARTA
@@ -1158,13 +1162,13 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCTGD5000504AS08.COLOMBIAMOVIL.CORP
 [69]
 Name=CRD-CARIBEPLAZA
-Description=CTGD5000504C001.colombiamovil.corp
+Description=PC - CTGD5000504CO01
 Workgroup=CARIBE PLAZA
 Port=2012
 AutoConnect=1
@@ -1172,11 +1176,11 @@ AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
-MACAddress=
-MACDateStamp=41928
+MACAddress=7845C4221C23|
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
-Address1=CTGD5000504C001.COLOMBIAMOVIL.CORP
+Address1=CTGD5000504CO01
 [70]
 Name=MOD09-CARIBEPLAZA
 Description=CTGD5000504AS07.colombiamovil.corp
@@ -1188,7 +1192,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C418B971|
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS07.COLOMBIAMOVIL.CORP
@@ -1203,7 +1207,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=A41F72791A58|
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS10.COLOMBIAMOVIL.CORP
@@ -1218,7 +1222,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=A41F7279234D|
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS11.COLOMBIAMOVIL.CORP
@@ -1233,7 +1237,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C42669F2|
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS12.COLOMBIAMOVIL.CORP
@@ -1248,7 +1252,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS06P.COLOMBIAMOVIL.CORP
@@ -1263,7 +1267,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=A41F72792421|
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS05.COLOMBIAMOVIL.CORP
@@ -1278,7 +1282,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCTGL5000504AD01.COLOMBIAMOVIL.CORP
@@ -1293,7 +1297,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C42661FF|
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS09.COLOMBIAMOVIL.CORP
@@ -1308,7 +1312,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C40A6A67|
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS01.COLOMBIAMOVIL.CORP
@@ -1322,8 +1326,8 @@ AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
-MACAddress=
-MACDateStamp=41928
+MACAddress=7845C409BBA7|
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS02.COLOMBIAMOVIL.CORP
@@ -1338,7 +1342,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C409FB1D|
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS03.COLOMBIAMOVIL.CORP
@@ -1353,7 +1357,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C422288E|
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=CTGD5000504AS04.COLOMBIAMOVIL.CORP
@@ -1368,7 +1372,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41928
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RCTGL5000504BO01.COLOMBIAMOVIL.CORP
@@ -2883,7 +2887,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9EFA41|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS13
@@ -2898,7 +2902,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=448A5BBF5A3A|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND500039AS11
@@ -2914,10 +2918,14 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=
+<<<<<<< HEAD
 =======
 MACAddress=448A5BBF50D3|
 >>>>>>> origin/master
 MACDateStamp=41961
+=======
+MACDateStamp=41957
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND500039AS09
@@ -2932,7 +2940,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4271736|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND50039AS02
@@ -2947,7 +2955,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=A41F7254B370|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND500003AS07
@@ -2962,7 +2970,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=78E3B5C436AA|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS05
@@ -2977,7 +2985,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=78E3B5C4F12B|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS09
@@ -2992,7 +3000,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=A41F7254B370|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS15
@@ -3007,7 +3015,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C427171D|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS06
@@ -3022,7 +3030,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=A41F727923B8|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS03
@@ -3037,7 +3045,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=D067E5025439|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AS16
@@ -3052,7 +3060,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4271AE8|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND500003AS01
@@ -3067,7 +3075,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=78E3B5C35C27|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND500039AS12
@@ -3082,7 +3090,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=78E3B5C436AA|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND50039AS07
@@ -3097,7 +3105,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=448A5BBF5135|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND50039AS10
@@ -3113,10 +3121,14 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=448A5BBF5108|
+<<<<<<< HEAD
 =======
 MACAddress=
 >>>>>>> origin/master
 MACDateStamp=41961
+=======
+MACDateStamp=41957
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039AD01
@@ -3131,7 +3143,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039C020
@@ -3147,10 +3159,14 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=78E3B5C436AA|
+<<<<<<< HEAD
 =======
 MACAddress=
 >>>>>>> origin/master
 MACDateStamp=41961
+=======
+MACDateStamp=41957
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 FirstConnectionCommand=
 ColGroup=0
 Address1=MOND5000039DI02
@@ -3166,10 +3182,14 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=78E3B5C35C6F|
+<<<<<<< HEAD
 =======
 MACAddress=78E3B5C436AA|
 >>>>>>> origin/master
 MACDateStamp=41961
+=======
+MACDateStamp=41957
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND500039CO01
@@ -4279,7 +4299,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4271703|
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS01
@@ -4294,7 +4314,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C42717ED|
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS02
@@ -4309,7 +4329,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C42669F4|
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS03
@@ -4324,7 +4344,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4265F83|
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS04
@@ -4339,7 +4359,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4271802|
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS05
@@ -4354,7 +4374,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C42665E9|
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS06
@@ -4369,7 +4389,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C42717E4|
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS07
@@ -4384,7 +4404,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4270AD2|
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS08
@@ -4398,8 +4418,8 @@ AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
-MACAddress=7845C427199B|
-MACDateStamp=41961
+MACAddress=
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS09
@@ -4414,7 +4434,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C42669DA|
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS10
@@ -4429,7 +4449,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4271AC3|
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521AS11
@@ -4444,7 +4464,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521ASCO01
@@ -4459,7 +4479,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAL5000521TM04
@@ -4474,7 +4494,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000521ST01
@@ -4489,7 +4509,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41961
+MACDateStamp=41932
 FirstConnectionCommand=
 ColGroup=0
 Address1=MASTER-PC
@@ -5044,7 +5064,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=4C72B9427E3B|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS15
@@ -5059,7 +5079,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9EFADE|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS01
@@ -5074,7 +5094,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9F019E|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS02
@@ -5089,7 +5109,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9F01A7|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS03
@@ -5104,7 +5124,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9F01A1|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS05
@@ -5119,7 +5139,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9EFCEE|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS06
@@ -5134,7 +5154,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9F00FE|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS07
@@ -5149,7 +5169,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9EFC1A|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS09
@@ -5164,7 +5184,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9F01A0|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS10
@@ -5179,7 +5199,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D9EFCEF|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471AS08
@@ -5194,7 +5214,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C42719E8|
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=10.75.34.94
@@ -5209,7 +5229,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471CO01
@@ -5224,7 +5244,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471CO02
@@ -5239,7 +5259,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=
-MACDateStamp=41961
+MACDateStamp=41942
 FirstConnectionCommand=
 ColGroup=0
 Address1=SIND5000471BOG2
@@ -6199,7 +6219,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D623B16|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AD03
@@ -6214,7 +6234,7 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D623BA7|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AD02
@@ -6230,10 +6250,14 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=448A5BB0C639|
+<<<<<<< HEAD
 =======
 MACAddress=
 >>>>>>> origin/master
 MACDateStamp=41961
+=======
+MACDateStamp=41957
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038C001
@@ -6249,11 +6273,26 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=F8165490C1CB|ECF4BB5FEFA6|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS09
 [406]
+Name=MOD27-SANTAMARTA
+Description=Portátil - SMTL5000038AS11
+Workgroup=SANTA MARTA
+Port=2012
+AutoConnect=1
+AutoWGID=0
+TempWGID=0
+PX=-1
+PY=-1
+MACAddress=F8165490FC2C|ECF4BB5FF4FE|F8165490FC30|
+MACDateStamp=41957
+FirstConnectionCommand=
+ColGroup=0
+Address1=SMTL5000038AS11
+[407]
 Name=CRD1-SANTAMARTA
 Description=Portátil - Coordinador 1 - SMTLMLOPEZ
 =======
@@ -6289,12 +6328,17 @@ TempWGID=0
 PX=-1
 PY=-1
 <<<<<<< HEAD
+<<<<<<< HEAD
 MACAddress=F8165490FE16|ECF4BB608CB7|F8165490FE1A|
 MACDateStamp=41961
+=======
+MACAddress=
+MACDateStamp=41957
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTLMLOPEZ
-[407]
+[408]
 Name=GB2-SANTAMARTA
 Description=Portátil - Genius Bar - SMTL5000038AS17
 =======
@@ -6316,11 +6360,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=F8165490C33D|ECF4BB5FFCA4|F8165490C341|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS17
-[408]
+[409]
 Name=GB4-SANTAMARTA
 Description=Portátil - Genius Bar - SMTL5000038AS17
 =======
@@ -6342,11 +6386,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=F8165490C33D|ECF4BB5FFCA4|F8165490C341|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS17
-[409]
+[410]
 Name=MOD07-SANTAMARTA
 Description=PC - SMTD5000038AS09
 =======
@@ -6367,12 +6411,16 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=001C25C898F9|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS09
 <<<<<<< HEAD
+<<<<<<< HEAD
 [410]
+=======
+[411]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD08-SANTAMARTA
 Description=PC - SMTD5000038AS20
 =======
@@ -6388,12 +6436,12 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=7845C4222022|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 <<<<<<< HEAD
 Address1=SMTD5000038AS20
-[411]
+[412]
 Name=MOD09-SANTAMARTA
 Description=PC - SMTD5000038AS19
 =======
@@ -6410,12 +6458,12 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D623B7A|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 <<<<<<< HEAD
 Address1=SMTD5000038AS19
-[412]
+[413]
 Name=GB3-SANTAMARTA
 Description=Portátil - Genius Bar -
 =======
@@ -6433,11 +6481,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=20689DEA4E6D|20689DEAC749|B4B52F7E0426|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=*PENDIENTE
-[413]
+[414]
 Name=MOD15(LT)-SANTAMARTA
 Description=PC - SMTL5000038AS01
 =======
@@ -6458,12 +6506,16 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=F81654626812|ECF4BB60860D|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS01
 <<<<<<< HEAD
+<<<<<<< HEAD
 [414]
+=======
+[415]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD16-SANTAMARTA
 Description=Portátil - SMTL5000038AS02
 =======
@@ -6480,6 +6532,7 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=F8165490C31F|ECF4BB5FF8DB|
+<<<<<<< HEAD
 =======
 MACAddress=6C626D623A7C|
 >>>>>>> origin/master
@@ -6489,6 +6542,13 @@ ColGroup=0
 Address1=SMTL5000038AS02
 <<<<<<< HEAD
 [415]
+=======
+MACDateStamp=41957
+FirstConnectionCommand=
+ColGroup=0
+Address1=SMTL5000038AS02
+[416]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD17-SANTAMARTA
 Description=Portátil - SMTL5000038AS03
 =======
@@ -6504,12 +6564,16 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=F81654628301|ECF4BB5FFCE1|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS03
 <<<<<<< HEAD
+<<<<<<< HEAD
 [416]
+=======
+[417]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD18-SANTAMARTA
 Description=Portátil - SMTL5000038AS04
 =======
@@ -6525,12 +6589,16 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=F8165462D0E0|ECF4BB5FF8C0|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS04
 <<<<<<< HEAD
+<<<<<<< HEAD
 [417]
+=======
+[418]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD19-SANTAMARTA
 Description=Portátil - SMTL5000038AS05
 =======
@@ -6547,6 +6615,7 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=F81654755855|ECF4BB6080EB|
+<<<<<<< HEAD
 =======
 MACAddress=
 >>>>>>> origin/master
@@ -6556,6 +6625,13 @@ ColGroup=0
 Address1=SMTL5000038AS05
 <<<<<<< HEAD
 [418]
+=======
+MACDateStamp=41957
+FirstConnectionCommand=
+ColGroup=0
+Address1=SMTL5000038AS05
+[419]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD20-SANTAMARTA
 Description=Portátil - SMTL5000038AS06
 =======
@@ -6571,12 +6647,16 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=F8165490C31F|ECF4BB5FF8DB|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS06
 <<<<<<< HEAD
+<<<<<<< HEAD
 [419]
+=======
+[420]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD21-SANTAMARTA
 Description=Portátil - SMTL5000038AS07
 =======
@@ -6592,12 +6672,16 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=FA16547518C2|FA16547518C3|F816547518C2|ECF4BB5FFD45|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS07
 <<<<<<< HEAD
+<<<<<<< HEAD
 [420]
+=======
+[421]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD22-SANTAMARTA
 Description=PC - Cooper - SMTD5000038AS06
 =======
@@ -6614,11 +6698,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=00FF2F5838A7|0270BAEB0401|7845C4271735|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS06
-[421]
+[422]
 Name=MOD24-SANTAMARTA
 Description=Portátil - SMTL5000038AS10
 =======
@@ -6640,11 +6724,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=F8165474E523|ECF4BB5FF400|F8165474E527|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS10
-[422]
+[423]
 Name=MOD25-SANTAMARTA
 Description=Portátil - SMTL5000038AS11
 =======
@@ -6666,11 +6750,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=F8165490FC2C|ECF4BB5FF4FE|F8165490FC30|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS11
-[423]
+[424]
 Name=MOD12-SANTAMARTA
 Description=PC - SMTD5000038AS12
 =======
@@ -6692,11 +6776,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=6C626D623A7C|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS12
-[424]
+[425]
 Name=MOD10-SANTAMARTA
 Description=PC - SMTD5000038AS13
 =======
@@ -6718,11 +6802,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=6C626D623A52|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS13
-[425]
+[426]
 Name=MOD03-SANTAMARTA
 Description=PC - SMTD5000038AS15
 =======
@@ -6744,10 +6828,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=001A4DDF89C9|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS15
+<<<<<<< HEAD
 [426]
 =======
 MACAddress=F8165490C1F3|ECF4BB608D24|F8165490C1F7|
@@ -6757,6 +6842,9 @@ ColGroup=0
 Address1=SMTL5000038AS13
 [428]
 >>>>>>> origin/master
+=======
+[427]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD06-SANTAMARTA
 Description=SMTD5000038AD02
 Workgroup=SANTA MARTA
@@ -6767,12 +6855,16 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=6C626D623CA1|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS16
 <<<<<<< HEAD
+<<<<<<< HEAD
 [427]
+=======
+[428]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=GB1-SANTAMARTA
 Description=Portátil - Genius Bar - SMTL5000038AS17
 =======
@@ -6789,11 +6881,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=F8165490C33D|ECF4BB5FFCA4|F8165490C341|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTL5000038AS17
-[428]
+[429]
 Name=MOD05-SANTAMARTA
 Description=PC - RSMTD500038AS07
 =======
@@ -6815,10 +6907,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=448A5BAE4169|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=RSMTD500038AS07
+<<<<<<< HEAD
 [429]
 =======
 MACAddress=6C626D623CA1|
@@ -6828,6 +6921,9 @@ ColGroup=0
 Address1=SMTD5000038AS20
 [431]
 >>>>>>> origin/master
+=======
+[430]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD01-CALLE84
 Description=BQAAL5000540AS06
 Workgroup=CALLE84
@@ -6843,10 +6939,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS06
 <<<<<<< HEAD
+<<<<<<< HEAD
 [430]
 =======
 [432]
 >>>>>>> origin/master
+=======
+[431]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD02-CALLE84
 Description=BQAAL5000540AS07
 Workgroup=CALLE84
@@ -6862,10 +6962,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS07
 <<<<<<< HEAD
+<<<<<<< HEAD
 [431]
 =======
 [433]
 >>>>>>> origin/master
+=======
+[432]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD03-CALLE84
 Description=BQAAL5000540AS02
 Workgroup=CALLE84
@@ -6881,10 +6985,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS02
 <<<<<<< HEAD
+<<<<<<< HEAD
 [432]
 =======
 [434]
 >>>>>>> origin/master
+=======
+[433]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD04-CALLE84
 Description=BQAAL5000540AS05
 Workgroup=CALLE84
@@ -6900,10 +7008,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS05
 <<<<<<< HEAD
+<<<<<<< HEAD
 [433]
 =======
 [435]
 >>>>>>> origin/master
+=======
+[434]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD05-CALLE84
 Description=BQAAL5000540AS18
 Workgroup=CALLE84
@@ -6919,10 +7031,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS18
 <<<<<<< HEAD
+<<<<<<< HEAD
 [434]
 =======
 [436]
 >>>>>>> origin/master
+=======
+[435]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD06-CALLE84
 Description=BQAAL5000540AS21
 Workgroup=CALLE84
@@ -6938,10 +7054,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS21
 <<<<<<< HEAD
+<<<<<<< HEAD
 [435]
 =======
 [437]
 >>>>>>> origin/master
+=======
+[436]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD07-CALLE84
 Description=BQAAL5000540AS16
 Workgroup=CALLE84
@@ -6957,10 +7077,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS16
 <<<<<<< HEAD
+<<<<<<< HEAD
 [436]
 =======
 [438]
 >>>>>>> origin/master
+=======
+[437]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD08-CALLE84
 Description=BQAAL5000540AS15
 Workgroup=CALLE84
@@ -6976,10 +7100,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS15
 <<<<<<< HEAD
+<<<<<<< HEAD
 [437]
 =======
 [439]
 >>>>>>> origin/master
+=======
+[438]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD09-CALLE84
 Description=BQAAL5000503AS15
 Workgroup=CALLE84
@@ -6995,10 +7123,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000503AS15
 <<<<<<< HEAD
+<<<<<<< HEAD
 [438]
 =======
 [440]
 >>>>>>> origin/master
+=======
+[439]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD10-CALLE84
 Description=BQAAL5000540AS20
 Workgroup=CALLE84
@@ -7014,10 +7146,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS20
 <<<<<<< HEAD
+<<<<<<< HEAD
 [439]
 =======
 [441]
 >>>>>>> origin/master
+=======
+[440]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD11-CALLE84
 Description=BQAAL5000540AS17
 Workgroup=CALLE84
@@ -7033,10 +7169,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS17
 <<<<<<< HEAD
+<<<<<<< HEAD
 [440]
 =======
 [442]
 >>>>>>> origin/master
+=======
+[441]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD12-CALLE84
 Description=BQAAL5000540AS12
 Workgroup=CALLE84
@@ -7052,10 +7192,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS12
 <<<<<<< HEAD
+<<<<<<< HEAD
 [441]
 =======
 [443]
 >>>>>>> origin/master
+=======
+[442]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD13-CALLE84
 Description=BQAAL5000540AS11
 Workgroup=CALLE84
@@ -7071,10 +7215,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS11
 <<<<<<< HEAD
+<<<<<<< HEAD
 [442]
 =======
 [444]
 >>>>>>> origin/master
+=======
+[443]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD14-CALLE84
 Description=BQAAL5000540AS14
 Workgroup=CALLE84
@@ -7090,10 +7238,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS14
 <<<<<<< HEAD
+<<<<<<< HEAD
 [443]
 =======
 [445]
 >>>>>>> origin/master
+=======
+[444]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD15-CALLE84
 Description=BQAAL5000540AS08
 Workgroup=CALLE84
@@ -7109,10 +7261,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS08
 <<<<<<< HEAD
+<<<<<<< HEAD
 [444]
 =======
 [446]
 >>>>>>> origin/master
+=======
+[445]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD16-CALLE84
 Description=BQAAL5000540AS10
 Workgroup=CALLE84
@@ -7128,10 +7284,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS10
 <<<<<<< HEAD
+<<<<<<< HEAD
 [445]
 =======
 [447]
 >>>>>>> origin/master
+=======
+[446]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD17-CALLE84
 Description=BQAAL5000508AS12
 Workgroup=CALLE84
@@ -7147,10 +7307,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000508AS12
 <<<<<<< HEAD
+<<<<<<< HEAD
 [446]
 =======
 [448]
 >>>>>>> origin/master
+=======
+[447]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD18-CALLE84
 Description=BQAAL5000503AS04
 Workgroup=CALLE84
@@ -7166,10 +7330,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000503AS04
 <<<<<<< HEAD
+<<<<<<< HEAD
 [447]
 =======
 [449]
 >>>>>>> origin/master
+=======
+[448]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD19-CALLE84
 Description=BQAAL5000503AS07
 Workgroup=CALLE84
@@ -7185,10 +7353,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000503AS07
 <<<<<<< HEAD
+<<<<<<< HEAD
 [448]
 =======
 [450]
 >>>>>>> origin/master
+=======
+[449]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD20-CALLE84
 Description=BQAAL5000508AS13
 Workgroup=CALLE84
@@ -7204,10 +7376,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000508AS13
 <<<<<<< HEAD
+<<<<<<< HEAD
 [449]
 =======
 [451]
 >>>>>>> origin/master
+=======
+[450]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD21-CALLE84
 Description=BQAAL5000503AS14
 Workgroup=CALLE84
@@ -7223,10 +7399,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000503AS14
 <<<<<<< HEAD
+<<<<<<< HEAD
 [450]
 =======
 [452]
 >>>>>>> origin/master
+=======
+[451]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD22-CALLE84
 Description=BQAAL5000540AS19
 Workgroup=CALLE84
@@ -7242,10 +7422,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS19
 <<<<<<< HEAD
+<<<<<<< HEAD
 [451]
 =======
 [453]
 >>>>>>> origin/master
+=======
+[452]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=GB1-CALLE84
 Description=BQAAL5000540AS01
 Workgroup=CALLE84
@@ -7261,10 +7445,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS01
 <<<<<<< HEAD
+<<<<<<< HEAD
 [452]
 =======
 [454]
 >>>>>>> origin/master
+=======
+[453]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=GB2-CALLE84
 Description=BQAAL5000540AS09
 Workgroup=CALLE84
@@ -7280,10 +7468,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS09
 <<<<<<< HEAD
+<<<<<<< HEAD
 [453]
 =======
 [455]
 >>>>>>> origin/master
+=======
+[454]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=GB3-CALLE84
 Description=BQAAL5000540AS03
 Workgroup=CALLE84
@@ -7299,10 +7491,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS03
 <<<<<<< HEAD
+<<<<<<< HEAD
 [454]
 =======
 [456]
 >>>>>>> origin/master
+=======
+[455]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=GB4-CALLE84
 Description=BQAAL5000540AS013
 Workgroup=CALLE84
@@ -7318,10 +7514,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAAL5000540AS013
 <<<<<<< HEAD
+<<<<<<< HEAD
 [455]
 =======
 [457]
 >>>>>>> origin/master
+=======
+[456]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=ADM-CALLE84
 Description=RBAQD500508AS511
 Workgroup=CALLE84
@@ -7337,10 +7537,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=RBAQD500508AS511
 <<<<<<< HEAD
+<<<<<<< HEAD
 [456]
 =======
 [458]
 >>>>>>> origin/master
+=======
+[457]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=CRD-CALLE84
 Description=BQAD5000503AS14
 Workgroup=CALLE84
@@ -7356,10 +7560,14 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAD5000503AS14
 <<<<<<< HEAD
+<<<<<<< HEAD
 [457]
 =======
 [459]
 >>>>>>> origin/master
+=======
+[458]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=BOD-CALLE84
 Description=BQAL5000540BO01
 Workgroup=CALLE84
@@ -7375,7 +7583,11 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BQAL5000540BO01
 <<<<<<< HEAD
+<<<<<<< HEAD
 [458]
+=======
+[459]
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 Name=MOD02-SANTAMARTA
 Description=PC - SMTD5000038DI01
 Workgroup=SANTA MARTA
@@ -7386,11 +7598,11 @@ TempWGID=0
 PX=-1
 PY=-1
 MACAddress=A41F72778922|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038DI01
-[459]
+[460]
 Name=MOD01-SANTAMARTA
 Description=PC - SMTD5000038AS21
 Workgroup=SANTA MARTA
@@ -7409,11 +7621,11 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=7845C409BBD4|
-MACDateStamp=41961
+MACDateStamp=41957
 FirstConnectionCommand=
 ColGroup=0
 Address1=SMTD5000038AS21
-[460]
+[461]
 Name=MOD11-SANTAMARTA
 Description=PC - SMTD5000038AS22
 Workgroup=SANTA MARTA
@@ -7437,10 +7649,14 @@ PX=-1
 PY=-1
 <<<<<<< HEAD
 MACAddress=
+<<<<<<< HEAD
 =======
 MACAddress=448A5BBF5135|
 >>>>>>> origin/master
 MACDateStamp=41961
+=======
+MACDateStamp=41957
+>>>>>>> parent of 4ed77a6... Actualización Santa Marta 6
 FirstConnectionCommand=
 ColGroup=0
 Address1=RMOND500003AS15
