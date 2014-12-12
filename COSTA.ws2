@@ -6751,7 +6751,7 @@ MACAddress=F81654625381|ECF4BB608486|
 MACDateStamp=41985
 FirstConnectionCommand=
 ColGroup=0
-Address1=BQAL5000540AS11
+Address1=10.75.66.59
 [442]
 Name=MOD14-CALLE84-ok
 Description=Portátil - BQAL5000540AS14
