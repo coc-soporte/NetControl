@@ -2684,7 +2684,7 @@ ColGroup=0
 Address1=RARMD200022AS01
 [172]
 Name=Mod 09 - San Diego
-Description=10.74.46.122
+Description=RMEDL200604AS09
 Workgroup=SAN DIEGO
 Port=2012
 AutoConnect=1
@@ -2696,7 +2696,7 @@ MACAddress=
 MACDateStamp=41990
 FirstConnectionCommand=
 ColGroup=0
-Address1=RMEDL200604AS09
+Address1=10.74.46.122
 [173]
 Name=Mod Adm - Molinos
 Description=
@@ -2812,7 +2812,7 @@ AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
-MACAddress=A417314B6B7E|D4BED980172F|
+MACAddress=F8A963464502|3010B3112ED4|3010B3112ED3|00090FFE0001|
 MACDateStamp=41990
 FirstConnectionCommand=
 ColGroup=0
