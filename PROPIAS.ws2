@@ -4813,10 +4813,10 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=MEDDAVELASQUEZ
 [314]
-Name=Mod GB 2
+Name=Mod GB 2 - Viva Laureles
 Description=
 Workgroup=VIVA LAURELES
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
