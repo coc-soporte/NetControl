@@ -479,7 +479,7 @@ WPW96=0
 WPS96=0
 WFL96=0
 WUC96=0
-ActiveName=PALMIRA
+ActiveName=CALLE 140
 DefaultWGID=0
 DefaultWUC=0
 [1]
@@ -5101,7 +5101,7 @@ MACAddress=3417EBC01E8F|
 MACDateStamp=42196
 FirstConnectionCommand=
 ColGroup=0
-Address1=BOGD1000479AS8
+Address1=BOGD1000479AS08
 [309]
 Name=MOD 24
 Description=
@@ -19201,10 +19201,10 @@ MACAddress=F816549CDD9E|ECF4BB5FF6A6|
 MACDateStamp=42196
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBOGD1000479AS08
+Address1=RBOGD100479AS08
 [1249]
 Name=MOD 07
-Description=
+Description=BOGD1000479AS09
 Workgroup=CALLE 140
 Port=2012
 AutoConnect=1
@@ -19216,7 +19216,7 @@ MACAddress=3417EBC118CE|
 MACDateStamp=42196
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBOGD1000479AS06
+Address1=BOGD1000479AS09
 [1250]
 Name=MOD 23 ASESOR LIDER
 Description=
@@ -19231,7 +19231,7 @@ MACAddress=7427EAFBED23|
 MACDateStamp=42196
 FirstConnectionCommand=
 ColGroup=0
-Address1=BOGD1000479AD01
+Address1=BOGD1000479AS8
 [1251]
 Name=MOD11-FORD
 Description=
