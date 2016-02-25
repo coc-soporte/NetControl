@@ -7564,7 +7564,7 @@ ColGroup=0
 Address1=RBQAD500036AS06
 [467]
 Name=MOD01
-Description=
+Description=L2
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -7579,7 +7579,7 @@ ColGroup=0
 Address1=BQADPYME03
 [468]
 Name=MOD02
-Description=
+Description=L2
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -7594,7 +7594,7 @@ ColGroup=0
 Address1=BQAD5000521AS03
 [469]
 Name=MOD03
-Description=
+Description=L2
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -7609,7 +7609,7 @@ ColGroup=0
 Address1=BQAD5000521AS01
 [470]
 Name=MOD04
-Description=
+Description=L1
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -7639,7 +7639,7 @@ ColGroup=0
 Address1=NO TIENE PC
 [472]
 Name=MOD06
-Description=
+Description=HVC
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -7654,7 +7654,7 @@ ColGroup=0
 Address1=BQAD5000521AS08
 [473]
 Name=MOD07
-Description=
+Description=HVC
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -7669,7 +7669,7 @@ ColGroup=0
 Address1=BQAD5000521AS06
 [474]
 Name=MOD08
-Description=BQAD5000521AS08
+Description=HVC
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -7684,7 +7684,7 @@ ColGroup=0
 Address1=BQAD5000521AS05
 [475]
 Name=MOD09
-Description=
+Description=HVC
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -7699,7 +7699,7 @@ ColGroup=0
 Address1=BQAD5000521AS07
 [476]
 Name=MOD12-CALLE79
-Description=
+Description=L2
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -7714,7 +7714,7 @@ ColGroup=0
 Address1=BARDPUME04
 [477]
 Name=MOD11-CALLE79
-Description=
+Description=L2
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -24244,7 +24244,7 @@ ColGroup=0
 Address1=BOGD100006AS12
 [1579]
 Name=MOD10
-Description=
+Description=L2
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -24259,7 +24259,7 @@ ColGroup=0
 Address1=BQAD5000521AS04
 [1580]
 Name=MOD13
-Description=SIN MIC
+Description=SIN MIC PYME
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -24274,9 +24274,9 @@ ColGroup=0
 Address1=BARDPYME10
 [1581]
 Name=MOD14
-Description=
+Description=PYME
 Workgroup=CALLE 79
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
@@ -24289,9 +24289,9 @@ ColGroup=0
 Address1=BQADPYME05
 [1582]
 Name=MOD15
-Description=
+Description=PYME
 Workgroup=CALLE 79
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
@@ -24304,9 +24304,9 @@ ColGroup=0
 Address1=BQAD5000521AS09
 [1583]
 Name=MOD16
-Description=
+Description=PYME
 Workgroup=CALLE 79
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
