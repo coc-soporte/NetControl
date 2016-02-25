@@ -7564,7 +7564,7 @@ ColGroup=0
 Address1=RBQAD500036AS06
 [467]
 Name=MOD01
-Description=L2
+Description=L2 SIN NETC
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -7699,7 +7699,7 @@ ColGroup=0
 Address1=BQAD5000521AS07
 [476]
 Name=MOD12-CALLE79
-Description=L2
+Description=L2 SIN MIC
 Workgroup=CALLE 79
 Port=2012
 AutoConnect=1
@@ -24252,7 +24252,7 @@ AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
-MACAddress=
+MACAddress=7845C4265F83|
 MACDateStamp=42425
 FirstConnectionCommand=
 ColGroup=0
