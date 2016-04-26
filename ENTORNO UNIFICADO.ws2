@@ -489,7 +489,7 @@ WPW98=0
 WPS98=0
 WFL98=0
 WUC98=0
-ActiveName=ANDINO CALLE 85
+ActiveName=PLAZA IMPERIAL
 DefaultWGID=0
 DefaultWUC=0
 [1]
@@ -1631,12 +1631,12 @@ MACAddress=989096C2258B|
 MACDateStamp=42486
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBOGD100009AS01
+Address1=BOGD100009AS01
 [77]
 Name=P_IMPERIAL_02
-Description=10.81.46.30 * BOGD1000009AS02
+Description=
 Workgroup=PLAZA IMPERIAL
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
@@ -1646,12 +1646,12 @@ MACAddress=4437E6DC541C|
 MACDateStamp=42486
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBOGD100009AS02
+Address1=BOGD100009AS02
 [78]
 Name=P_IMPERIAL_03
 Description=
 Workgroup=PLAZA IMPERIAL
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
@@ -1661,7 +1661,7 @@ MACAddress=F8B156B5E802|
 MACDateStamp=42486
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBOGD100009AS03
+Address1=BOGD100009AS03
 [79]
 Name=P_IMPERIAL_04
 Description=
@@ -1676,7 +1676,7 @@ MACAddress=7845C4271629|
 MACDateStamp=42486
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBOGD100009AS04
+Address1=BOGD100009AS04
 [80]
 Name=P_IMPERIAL_05
 Description=
@@ -1691,7 +1691,7 @@ MACAddress=4437E6DD7ABC|
 MACDateStamp=42486
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBOGD100009AS09
+Address1=BOGD100009AS09
 [81]
 Name=P_IMPERIAL_06
 Description=
