@@ -2384,7 +2384,7 @@ ColGroup=0
 Address1=BOGL1000013AS13
 [127]
 Name=MOD-02
-Description=L1
+Description=L1 mic dañado
 Workgroup=ANDINO CALLE 85
 Port=2012
 AutoConnect=1
@@ -2594,7 +2594,7 @@ ColGroup=0
 Address1=BOGD100510AS09
 [141]
 Name=MOD-01
-Description=L1
+Description=L1 no tiene mic
 Workgroup=ANDINO CALLE 85
 Port=2012
 AutoConnect=1
@@ -2609,7 +2609,7 @@ ColGroup=0
 Address1=BOGD1000501AS1
 [142]
 Name=MOD-04
-Description=L1
+Description=L1 BOGL1000510AS04 10.81.61.75
 Workgroup=ANDINO CALLE 85
 Port=2012
 AutoConnect=1
@@ -2621,7 +2621,7 @@ MACAddress=E09D310737B4|F01FAF5F9C11|
 MACDateStamp=42493
 FirstConnectionCommand=
 ColGroup=0
-Address1=BOGL1000510AS04
+Address1=10.81.61.75
 [143]
 Name=MOD-07
 Description=RETENCION
