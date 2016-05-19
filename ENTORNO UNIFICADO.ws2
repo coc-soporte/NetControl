@@ -494,7 +494,7 @@ WPW99=0
 WPS99=0
 WFL99=0
 WUC99=0
-ActiveName=PORTAL 80
+ActiveName=CENTRO MAYOR
 DefaultWGID=0
 DefaultWUC=0
 [1]
@@ -17716,7 +17716,7 @@ MACAddress=605718AEFC1D|34E6D73DB0C5|
 MACDateStamp=42509
 FirstConnectionCommand=
 ColGroup=0
-Address1=BOGL1000511AS005
+Address1=CDEBOGCMAYOR4
 [1149]
 Name=MOD06
 Description=MOD06
