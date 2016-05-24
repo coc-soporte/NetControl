@@ -1802,11 +1802,11 @@ AutoWGID=0
 TempWGID=0
 PX=-1
 PY=-1
-MACAddress=F8B156B7B0A6|
+MACAddress=78E3B5B148AA|
 MACDateStamp=42514
 FirstConnectionCommand=
 ColGroup=0
-Address1=RBOGD100009AD01
+Address1=BOGD10009ASCOR
 [88]
 Name=MOD 14
 Description=cable reventado
