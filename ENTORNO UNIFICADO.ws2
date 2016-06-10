@@ -484,7 +484,7 @@ WPW97=0
 WPS97=0
 WFL97=0
 WUC97=0
-ActiveName=MOLINOS
+ActiveName=PEREIRA
 DefaultWGID=0
 DefaultWUC=0
 [1]
@@ -10073,7 +10073,7 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=RPERD200591AS05
 [640]
-Name=MOD 01 - PEREIRA
+Name=MOD 01 
 Description=
 Workgroup=PEREIRA
 Port=2012
@@ -11753,7 +11753,7 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=10.74.10.98
 [752]
-Name=MOD 03 - PEREIRA
+Name=MOD 03 
 Description=
 Workgroup=PEREIRA
 Port=2012
@@ -19838,7 +19838,7 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=PERD2000391AS06
 [1291]
-Name=MOD 10
+Name=MOD 10 - PEREIRA
 Description=
 Workgroup=PEREIRA
 Port=2012
@@ -19883,7 +19883,7 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=PERD2000391AS14
 [1294]
-Name=MOD 15
+Name=MOD 15 - PEREIRA
 Description=
 Workgroup=PEREIRA
 Port=2012
