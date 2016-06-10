@@ -13988,7 +13988,7 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BOGD1002069ASO7
 [901]
-Name=MOD-02
+Name=mod-01
 Description=
 Workgroup=TIGO DE LA CUESTA
 Port=2012
@@ -14003,7 +14003,7 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=BUCL1002066AS10
 [902]
-Name=MOD-03
+Name=MOD-02
 Description=
 Workgroup=TIGO DE LA CUESTA
 Port=2012
