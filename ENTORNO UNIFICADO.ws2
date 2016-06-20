@@ -9994,7 +9994,7 @@ ColGroup=0
 Address1=MEDD200430AS14
 [635]
 Name=MOD 04 - PEREIRA
-Description=DQUL2000614AS02
+Description=DQUL2000614AS02 conecta por ip
 Workgroup=PEREIRA
 Port=2012
 AutoConnect=1
@@ -19759,7 +19759,7 @@ ColGroup=0
 Address1=RMEDL200595BO01
 [1286]
 Name=MOD 08
-Description=
+Description= 
 Workgroup=PEREIRA
 Port=2012
 AutoConnect=1
@@ -19771,7 +19771,7 @@ MACAddress=6C626D62397C|
 MACDateStamp=42541
 FirstConnectionCommand=
 ColGroup=0
-Address1=MOD08
+Address1=PERD2000391AS8
 [1287]
 Name=MOD 09
 Description=
@@ -19789,9 +19789,9 @@ ColGroup=0
 Address1=PERD2000391AS06
 [1288]
 Name=MOD 10 - PEREIRA
-Description=
+Description= 
 Workgroup=PEREIRA
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
@@ -19801,7 +19801,7 @@ MACAddress=
 MACDateStamp=0
 FirstConnectionCommand=
 ColGroup=0
-Address1=PEREIRA
+Address1=PERD2000391AS07
 [1289]
 Name=MOD 11
 Description=
