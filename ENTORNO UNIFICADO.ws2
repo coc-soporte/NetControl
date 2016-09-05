@@ -5573,7 +5573,7 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=SMTDRGARCIA
 [340]
-Name=MOD13 coord
+Name=MOD13
 Description=SMTLACUADRADO
 Workgroup=OCEAN MALL
 Port=2012
