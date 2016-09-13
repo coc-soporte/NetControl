@@ -9966,7 +9966,7 @@ MACAddress=7845C409BA19|
 MACDateStamp=42626
 FirstConnectionCommand=
 ColGroup=0
-Address1=PERD2000391AS08
+Address1=COOPER
 [633]
 Name=MOD 17
 Description=
@@ -19224,7 +19224,7 @@ ColGroup=0
 Address1=PERD2000391AS14
 [1250]
 Name=MOD 15  
-Description= 
+Description= 10.76.2.200
 Workgroup=PEREIRA
 Port=2012
 AutoConnect=1
@@ -19236,7 +19236,7 @@ MACAddress=4437E6E462EC|
 MACDateStamp=42626
 FirstConnectionCommand=
 ColGroup=0
-Address1=10.76.2.200
+Address1=PERDJZAMORA
 [1251]
 Name=W10 L1 - la florida
 Description=
@@ -21654,9 +21654,9 @@ ColGroup=0
 Address1=PERL2000617AS02
 [1412]
 Name=MOD 13
-Description=
+Description=10.76.2.202
 Workgroup=PEREIRA
-Port=0
+Port=2012
 AutoConnect=1
 AutoWGID=0
 TempWGID=0
@@ -21666,7 +21666,7 @@ MACAddress=6C626D5BB06D|
 MACDateStamp=42626
 FirstConnectionCommand=
 ColGroup=0
-Address1=10.76.2.202
+Address1=PERD2000391AS08
 [1413]
 Name=MOD 14
 Description=
