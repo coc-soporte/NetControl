@@ -9939,7 +9939,7 @@ ColGroup=0
 Address1=MEDD200430AS14
 [631]
 Name=MOD 04 - PEREIRA
-Description=DQUL2000614AS02 conecta por ip
+Description=DQUL2000614AS02 conecta por ip hay que pedirla al cde
 Workgroup=PEREIRA
 Port=2012
 AutoConnect=1
@@ -19179,7 +19179,7 @@ ColGroup=0
 Address1=PERD2000391AS06
 [1247]
 Name=MOD 10 - PEREIRA
-Description=PERD2000391AS07 10.71.4.82
+Description=PERD2000391AS07  
 Workgroup=PEREIRA
 Port=2012
 AutoConnect=1
@@ -20379,7 +20379,7 @@ ColGroup=0
 Address1=RCALL300026AD01
 [1327]
 Name=MOD 02
-Description=
+Description=DQUL2000614AS01
 Workgroup=PEREIRA
 Port=2012
 AutoConnect=1
