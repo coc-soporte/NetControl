@@ -16791,7 +16791,7 @@ MACAddress=7845C42663B9|
 MACDateStamp=42642
 FirstConnectionCommand=
 ColGroup=0
-Address1=CDEBOGCMAYOR21
+Address1=BOGD1000511BB01
 [1088]
 Name=MOD22__
 Description=MOD22__
@@ -16836,7 +16836,7 @@ MACAddress=7845C42663D8|
 MACDateStamp=42642
 FirstConnectionCommand=
 ColGroup=0
-Address1=CDEBOGCMAYOR24
+Address1=CDEBOGCMAYOR024
 [1091]
 Name=MOD25
 Description=MOD25  BOGL1000511AS01 10.81.14.45
@@ -16943,8 +16943,8 @@ FirstConnectionCommand=
 ColGroup=0
 Address1=CDEBOGCMAYOR31
 [1098]
-Name=MOD32
-Description=MOD32
+Name=MOD32 codensa
+Description=MOD32 codensa
 Workgroup=CENTRO MAYOR
 Port=2012
 AutoConnect=1
@@ -16956,7 +16956,7 @@ MACAddress=605718AEFD1C|34E6D73DAF26|
 MACDateStamp=42642
 FirstConnectionCommand=
 ColGroup=0
-Address1=CDEBOGCMAYOR32
+Address1=CODENSA
 [1099]
 Name=MOD34
 Description=MOD34
@@ -16971,7 +16971,7 @@ MACAddress=605718ADF796|34E6D73DB56F|
 MACDateStamp=42642
 FirstConnectionCommand=
 ColGroup=0
-Address1=CDEBOGCMAYOR34
+Address1=CDEBODCMAYOR034
 [1100]
 Name=MOD35
 Description=MOD35
@@ -17001,7 +17001,7 @@ MACAddress=40F02F723639|40F02F71D8AB|A45D36D1593B|
 MACDateStamp=42642
 FirstConnectionCommand=
 ColGroup=0
-Address1=CDEBOGCMAYOR33
+Address1=CDERBOGCMAYOR33
 [1102]
 Name=MOD-10
 Description=GE2_MOD-10
